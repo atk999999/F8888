@@ -1,0 +1,1497 @@
+{
+ "11149": [
+  "Đỉnh Hỗn Độn",
+  "",
+  []
+ ],
+ "11150": [
+  "Linh lực hỗn loạn",
+  "Linh lực dị thuộc tính cuồn cuộn khiến ngươi phát cuồng. Ngươi đành tán công mới lấy lại thần trí.",
+  []
+ ],
+ "11151": [
+  "Dung nạp hỗn nguyên",
+  "Ngươi hấp thu nhiều loại linh lực, tránh được tẩu hỏa nhập ma và còn tinh tiến tu vi.",
+  []
+ ],
+ "11152": [
+  "Rời đỉnh Hỗn Độn",
+  "Nhớ vận may xưa nay chẳng tốt, ngươi quyết định quay về.",
+  []
+ ],
+ "11153": [
+  "Dãy Xích Luyện",
+  "Đến dãy Xích Luyện, ngươi gặp một cự nhân chắn lối. Ngươi có ứng chiến chăng?",
+  [
+   "Ứng chiến",
+   "Rời đi"
+  ]
+ ],
+ "11154": [
+  "Giao phong với cự nhân",
+  "",
+  []
+ ],
+ "11155": [
+  "Thắng cự nhân",
+  "Sau một trận giằng co, tu vi nhỉnh hơn giúp ngươi đánh bại cự nhân.",
+  []
+ ],
+ "11156": [
+  "Sức cùng lực kiệt",
+  "Cự nhân bền sức phi thường. Đánh mãi đến khi kiệt lực, ngươi bị nó đả trọng thương.",
+  []
+ ],
+ "11157": [
+  "Tránh cự nhân",
+  "Thấy cự nhân khó đối phó, ngươi chủ động tránh đi.",
+  []
+ ],
+ "11158": [
+  "Rừng Tiêu Dao",
+  "Cành cây trong rừng Tiêu Dao như có linh tính, tự chuyển mình né tránh. Ngươi lưu lại lâu ngày để luyện thân pháp.",
+  []
+ ],
+ "11159": [
+  "Rèn thân pháp",
+  "Nhận thấy bước chân còn vụng, ngươi dành thêm thời gian khổ luyện thân pháp.",
+  []
+ ],
+ "11160": [
+  "Kho vàng dưới đất",
+  "Thanh Trúc Bang phát hiện cả kho vàng thỏi dưới hang. Là bang chủ, ngươi được phần tài vật hậu hĩnh.",
+  []
+ ],
+ "11161": [
+  "Viếng Hợp Hoan Tông",
+  "Hợp Hoan Tông chuyên tu song tu, sơn môn nằm gần bang của ngươi. Có đến thăm chăng?",
+  [
+   "Đến thăm",
+   "Không đi"
+  ]
+ ],
+ "11162": [
+  "Trước cửa Hợp Hoan",
+  "Nghe nói trong tông cất giữ nhiều bí pháp song tu, ngươi định lẻn vào xem hay đường hoàng bái kiến?",
+  [
+   "Lẻn vào",
+   "Bái kiến"
+  ]
+ ],
+ "11163": [
+  "Tiềm nhập Hợp Hoan Tông",
+  "",
+  []
+ ],
+ "11164": [
+  "Gặp cấm thư",
+  "Nhờ tu vi và thân pháp cao cường, ngươi lẻn vào tông, tình cờ tìm thấy một cuốn cấm thư và say sưa đọc hết.",
+  []
+ ],
+ "11165": [
+  "Bí mật của cấm thuật",
+  "Trở về thử luyện, ngươi mới hay thuật này chỉ có thể cùng người đồng giới tu tập. Còn tiếp tục chăng?",
+  [
+   "Tu luyện",
+   "Thôi vậy"
+  ]
+ ],
+ "11166": [
+  "Đồng tu bí pháp",
+  "Ngươi tiếp tục luyện bí thuật, kết duyên với nhiều mỹ nam. Nhờ cùng họ song tu, tu vi của ngươi tiến bộ thần tốc.",
+  []
+ ],
+ "11167": [
+  "Khép cấm thư",
+  "Ngươi từ bỏ bí thuật, song những điều vừa đọc vẫn giúp ngươi lĩnh hội đôi phần yếu nghĩa.",
+  []
+ ],
+ "11168": [
+  "Trúng cấm chế",
+  "Thân pháp và tu vi còn kém, ngươi chạm cấm chế rồi ngất đi. Tỉnh lại mới hay áo quần đã biến mất, may mà thân thể còn nguyên.",
+  []
+ ],
+ "11169": [
+  "Tránh tà đạo",
+  "Ngươi chẳng muốn dây dưa vào đường lối mà mình cho là tà môn, bèn bỏ qua chuyến đi.",
+  []
+ ],
+ "11170": [
+  "Bái kiến Hợp Hoan Tông",
+  "",
+  []
+ ],
+ "11171": [
+  "Tiên tử hữu tình",
+  "Trong buổi bái kiến, một tiên tử đưa tình qua ánh mắt. Ngươi cũng có ý, hai người cùng trải qua một đêm vui vẻ.",
+  []
+ ],
+ "11172": [
+  "Mỹ nhân vô ý",
+  "Giữa một tông môn toàn trai tài gái sắc, chẳng ai chú ý đến ngươi. Ngươi đành ra về.",
+  []
+ ],
+ "11173": [
+  "Thiên giai công pháp",
+  "Một nhóm tu sĩ đang tranh nhau bộ thiên giai công pháp có thể tăng mạnh thân pháp. Ngươi có nhập cuộc?",
+  [
+   "Tranh đoạt",
+   "Bỏ qua"
+  ]
+ ],
+ "11174": [
+  "Tranh thiên giai công pháp",
+  "",
+  []
+ ],
+ "11175": [
+  "Đoạt được công pháp",
+  "Ngươi đánh bại mọi đối thủ, thu lấy công pháp. Thân pháp lẫn tu vi đều tiến bộ.",
+  []
+ ],
+ "11176": [
+  "Bại trận tranh kinh",
+  "Đối thủ quá mạnh. Ngươi bị đánh trọng thương.",
+  []
+ ],
+ "11177": [
+  "Tránh tranh chấp",
+  "Ngươi nghĩ bớt một chuyện thì hơn, bèn rời đi.",
+  []
+ ],
+ "11178": [
+  "Nóng lòng phá cảnh",
+  "Lòng dạ bồn chồn, ngươi muốn sớm đột phá. Ngươi sẽ làm gì?",
+  [
+   "Cưỡng ép rèn thân",
+   "Cưỡng ép tham ngộ"
+  ]
+ ],
+ "11179": [
+  "Mua đan trợ tu",
+  "Tu vi đình trệ lâu ngày, ngươi mua ít đan dược trợ tu và cuối cùng cũng tiến bộ.",
+  []
+ ],
+ "11180": [
+  "Thọ lễ của bang chủ",
+  "Sinh nhật năm nay, trên cương vị bang chủ Thanh Trúc Bang, ngươi nhận được nhiều lễ vật quý giá.",
+  []
+ ],
+ "11181": [
+  "Muội muội thêm xinh",
+  "Thấy muội muội càng thêm xinh đẹp, ngươi cũng bỏ không ít tiền của để chăm chút dung mạo.",
+  []
+ ],
+ "11182": [
+  "Muội muội tu hành",
+  "Muội muội cũng bắt đầu tu luyện, tư chất dường như bất phàm. Ngươi tự nhủ phải chuyên cần hơn.",
+  []
+ ],
+ "11183": [
+  "Kẻ giả thần",
+  "Một gã giả thần hỏi ngươi có tin thần linh chăng. Ngươi có cho hắn chút tài vật?",
+  [
+   "Cho tài vật",
+   "Đánh hắn"
+  ]
+ ],
+ "11184": [
+  "Một đi không lại",
+  "Nhận được không ít của cải của ngươi, gã quay đầu chạy mất trước khi ngươi kịp phản ứng.",
+  []
+ ],
+ "11185": [
+  "Bắt kẻ lừa đảo",
+  "Tin chắc hắn là kẻ lừa đảo, ngươi cho hắn một trận. Hắn vội dâng tài vật trên người cầu tha.",
+  []
+ ],
+ "11186": [
+  "Những ngày tẻ nhạt",
+  "Ngày nối ngày trôi, cõi đời đối với ngươi bỗng nhạt nhẽo vô cùng.",
+  []
+ ],
+ "11187": [
+  "Uy danh Thanh Trúc",
+  "Thanh Trúc Bang xung đột với thế lực khác. Ngươi dẫn huynh đệ đánh thắng đối phương, thanh danh vang dội.",
+  []
+ ],
+ "11188": [
+  "Tẩu hỏa nhập ma",
+  "Ngươi bất ngờ tẩu hỏa nhập ma. Muốn bình phục phải hy sinh một phần căn cơ. Ngươi chọn gì?",
+  [
+   "Thể chất",
+   "Ngộ tính"
+  ]
+ ],
+ "11189": [
+  "Tổn hao thể chất",
+  "Thể chất suy giảm, đổi lại ngươi thoát khỏi cơn tẩu hỏa.",
+  []
+ ],
+ "11190": [
+  "Tổn hao ngộ tính",
+  "Ngộ tính suy giảm, đổi lại ngươi tìm lại được tỉnh táo.",
+  []
+ ],
+ "11191": [
+  "Dốc Táng Long",
+  "Một chuyến lịch luyện tại dốc Táng Long giúp ngươi mạnh thêm.",
+  []
+ ],
+ "11192": [
+  "Vạn Thú Sơn Trang",
+  "Sau chuyến lịch luyện ở Vạn Thú Sơn Trang, ngươi cảm thấy mình mạnh lên không ít.",
+  []
+ ],
+ "11193": [
+  "Động Thê Vân",
+  "Ngươi đến động Thê Vân lịch luyện, thực lực có phần tinh tiến.",
+  []
+ ],
+ "11194": [
+  "Công pháp thượng cổ",
+  "Cơ duyên đưa đến tay ngươi một bộ công pháp tu tiên thượng cổ, công lực theo đó đại tăng.",
+  []
+ ],
+ "11195": [
+  "Vị khách tìm muội",
+  "Một ngày nọ, ngươi thấy muội muội trò chuyện với một nữ tử đẹp tựa thiên tiên, nhưng nàng cứ lắc đầu mãi.",
+  []
+ ],
+ "11196": [
+  "Sứ giả Cửu Huyền Cung",
+  "Nữ tử tên Tạ Ký Dao, đến từ Cửu Huyền Cung ở dị giới. Nàng bảo muội muội chính là người thích hợp nhất để tu công pháp Cửu Thiên Huyền Nữ.",
+  []
+ ],
+ "11197": [
+  "Lời cảnh báo của Tạ Ký Dao",
+  "Muội muội khước từ. Tạ Ký Dao báo rằng cổng sang dị giới đã hỏng, hai năm nữa mới sửa xong. Khi ấy La gia, kẻ thù của nhà ngươi, e sẽ tìm đến.",
+  []
+ ],
+ "11198": [
+  "Huyễn cảnh xuất thế",
+  "Huyễn cảnh do tu sĩ Đại Thừa lưu lại vừa xuất thế. Trong đó có truyền thừa cho người hữu duyên, cũng đầy hung hiểm. Ngươi có vào?",
+  [
+   "Tiến vào",
+   "Bỏ qua"
+  ]
+ ],
+ "11199": [
+  "Tránh hiểm cảnh",
+  "Cân nhắc hiểm nguy bên trong, ngươi quyết định dừng bước.",
+  []
+ ],
+ "11200": [
+  "Hai lối mật thất",
+  "Bên trái chỉ nhận người có đại cơ duyên. Bên phải đòi hỏi thân pháp siêu phàm. Ngươi chọn ngả nào?",
+  [
+   "Bên trái",
+   "Bên phải"
+  ]
+ ],
+ "11201": [
+  "Thử thách kỳ cục",
+  "",
+  []
+ ],
+ "11202": [
+  "Phá Trân Lung kỳ cục",
+  "Trân Lung kỳ cục chặn lối. Mấy nước cờ tưởng như tùy ý của ngươi lại đổi cả thế trận, giúp ngươi vượt cửa.",
+  []
+ ],
+ "11203": [
+  "Mắc kẹt trong kỳ cục",
+  "Trước Trân Lung kỳ cục, ngươi khổ tư rất lâu vẫn không tìm ra lời giải, đành quay lại.",
+  []
+ ],
+ "11204": [
+  "Thử thách cơ quan",
+  "",
+  []
+ ],
+ "11205": [
+  "Lướt qua cơ quan",
+  "Mật thất chi chít cơ quan, nhưng với thân pháp của mình, ngươi nhẹ nhàng vượt qua.",
+  []
+ ],
+ "11206": [
+  "Cơ quan cản lối",
+  "Thân pháp chưa đủ vượt qua tầng tầng cơ quan. Ngươi buộc phải quay đầu.",
+  []
+ ],
+ "11207": [
+  "Cảnh giới Đổ",
+  "Muốn qua cửa Đổ, phải đặt cược và thắng một ván. Ngươi có đánh cược?",
+  [
+   "Đặt cược",
+   "Dừng lại"
+  ]
+ ],
+ "11208": [
+  "Canh bạc trong huyễn cảnh",
+  "",
+  []
+ ],
+ "11209": [
+  "Thua một ván",
+  "Ngươi thua ván này. Có đặt cược thêm lần nữa chăng?",
+  [
+   "Cược tiếp",
+   "Dừng lại"
+  ]
+ ],
+ "11210": [
+  "Cảnh giới Mê",
+  "Thắng cược, ngươi bước vào cửa Mê. Câu đố hỏi thêm một nét phẩy vào chữ Mộc (木) sẽ được chữ nào?",
+  [
+   "Di (移)",
+   "Thuật (术)"
+  ]
+ ],
+ "11211": [
+  "Rút khỏi canh bạc",
+  "Nghĩ vận số mình vốn đen đủi, ngươi dừng cược và theo đường cũ trở ra.",
+  []
+ ],
+ "11212": [
+  "Cạn tiền cược",
+  "Không còn tài vật để đặt cược, ngươi đành quay về.",
+  []
+ ],
+ "11213": [
+  "Quả cầu hỗn độn",
+  "Đáp đúng câu đố, ngươi đến một đại sảnh chứa quả cầu năng lượng hỗn độn. Một con quái vật chắn đường. Có giao chiến?",
+  [
+   "Chiến đấu",
+   "Bỏ qua"
+  ]
+ ],
+ "11214": [
+  "Sai lời giải",
+  "Đáp sai câu đố, ngươi lập tức bị một luồng lực bí ẩn đẩy khỏi huyễn cảnh.",
+  []
+ ],
+ "11215": [
+  "Quái vật giữ cửa",
+  "",
+  []
+ ],
+ "11216": [
+  "Tắm trong hỗn nguyên",
+  "Hạ được quái vật, ngươi đắm mình trong quả cầu rồi dần mất ý thức. Khi tỉnh lại, toàn thân tràn đầy sức mạnh kỳ lạ.",
+  []
+ ],
+ "11217": [
+  "Bại trước quái vật",
+  "Hai bên giằng co đã lâu. Thấy tu vi chưa đủ thắng nó, ngươi đành rời đi.",
+  []
+ ],
+ "11218": [
+  "La gia tìm đến",
+  "Cổng dị giới đã sửa xong. Người La gia tìm tới, vẫn nhắm vào Tinh Thần Quyết của Tần gia. Ngươi tính sao?",
+  [
+   "Kháng cự",
+   "Bỏ chạy"
+  ]
+ ],
+ "11219": [
+  "Chạy không thoát",
+  "Ngươi vừa chạy không lâu đã bị người La gia đuổi kịp và sát hại.",
+  []
+ ],
+ "11220": [
+  "Kháng cự La gia",
+  "",
+  []
+ ],
+ "11221": [
+  "Phá vòng vây",
+  "Giữa vòng vây của những kẻ ngang tu vi, ngươi chật vật giành phần thắng. Nhưng thủ lĩnh của chúng bấy giờ mới xuất thủ.",
+  []
+ ],
+ "11222": [
+  "Muội muội đỡ kiếm",
+  "Trước kẻ đã tu hành mấy trăm năm, sự chống trả của ngươi quá yếu ớt. Phi kiếm vừa chực đoạt mạng thì muội muội lao ra đỡ thay.",
+  []
+ ],
+ "11223": [
+  "Tạ Ký Dao trở lại",
+  "Khi muội muội sắp tắt thở, Tạ Ký Dao hiện ra trong vầng sáng và cho nàng uống đan. Thương thế đã ngừng xấu đi, song hơi thở càng yếu.",
+  []
+ ],
+ "11224": [
+  "Lời hẹn Cửu Huyền Cung",
+  "Tạ Ký Dao quét sạch người La gia, dặn ngươi sau này hãy đến Cửu Huyền Cung tìm muội. Cửu Thiên Huyền Nữ không thể chết ở đây. Nàng đưa muội muội đi.",
+  []
+ ],
+ "11225": [
+  "Giải tán Thanh Trúc Bang",
+  "Biến cố quá đột ngột. Ngươi ngơ ngẩn giải tán Thanh Trúc Bang rồi thất thần đi giữa phố, suýt bị xe ngựa đâm.",
+  []
+ ],
+ "11226": [
+  "Sống vì điều gì",
+  "Rốt cuộc mình còn sống vì điều gì? Ngươi không sao tìm ra câu trả lời.",
+  []
+ ],
+ "11227": [
+  "Nhớ lời phụ thân",
+  "Ngươi chợt nhớ cha từng kể Tần gia vốn ẩn cư dưới vách núi phía sau. Sau nhờ một vị đại năng thi pháp dời cả gia tộc lên, họ mới hòa vào trần thế.",
+  []
+ ],
+ "11228": [
+  "Tìm cố trạch Tần gia",
+  "Nếu Tinh Thần Quyết không ở đây, hẳn nó còn trong cố trạch. Nghĩ vậy, ngươi chạy đến vách núi phía sau.",
+  []
+ ],
+ "11229": [
+  "Ba đêm bên vực",
+  "Vách đá dựng đứng, chẳng có chỗ đặt chân. Chưa thể ngự không, ngươi đứng bên vực ba ngày ba đêm, không ăn không uống.",
+  []
+ ],
+ "11230": [
+  "Một tia sinh cơ",
+  "Nếu thiên ý đã định, ngươi vẫn muốn đánh cược vào hy vọng mong manh. Ngươi tung mình xuống vực. Chương hai khép lại.",
+  []
+ ],
+ "11231": [
+  "Năm tháng lại trôi",
+  "Từ đây thời gian trở lại như thường, mỗi lượt tương ứng một năm.",
+  []
+ ],
+ "11232": [
+  "Bại vong trước La gia",
+  "Tu vi không đủ chống lại người La gia, ngươi bỏ mạng dưới tay họ.",
+  []
+ ],
+ "11233": [
+  "Ngày đẹp trời",
+  "Trời trong, ngươi vận động một lúc tại nhà, thấy thân thể khỏe lên.",
+  []
+ ],
+ "11234": [
+  "Lên núi đốn củi",
+  "Nhà cạn củi, ngươi lên núi đốn một bó lớn mang về. Thấy ngươi đầy sức sống, Hoa Hoa rất vui.",
+  []
+ ],
+ "11235": [
+  "Đụng độ bầy sói",
+  "Mùa đông đặc biệt khắc nghiệt. Khi ra ngoài cùng Hoa Hoa, ngươi gặp một bầy sói. Ngươi tính sao?",
+  [
+   "Cố thủ",
+   "Giao chiến"
+  ]
+ ],
+ "11236": [
+  "Chờ người cứu",
+  "Bầy sói kiên nhẫn vây chặt đến khi hai người gần kiệt sức. May sao có đoàn người đi ngang qua cứu được cả hai.",
+  []
+ ],
+ "11237": [
+  "Đối đầu bầy sói",
+  "",
+  []
+ ],
+ "11238": [
+  "Đẩy lui bầy sói",
+  "Nhờ sức lực dồi dào, ngươi đánh bại bầy sói, chỉ chịu chút thương nhẹ.",
+  []
+ ],
+ "11239": [
+  "Thoát vòng vây",
+  "Sói quá đông, cả hai phải dốc hết sức mới thoát được. Ai nấy đều bị thương nhẹ.",
+  []
+ ],
+ "11240": [
+  "Lệ trong mộng",
+  "Ngươi mơ thấy một đêm tàn sát. Chẳng hiểu vì sao nước mắt cứ thế tuôn rơi.",
+  []
+ ],
+ "11241": [
+  "Hoa Hoa đỏ mặt",
+  "Chẳng biết từ bao giờ, Hoa Hoa cứ nhìn thấy ngươi lại đỏ mặt.",
+  []
+ ],
+ "11242": [
+  "Mùa màng bội thu",
+  "Năm nay được mùa, cả nhà chẳng còn lo thiếu cơm ăn áo mặc.",
+  []
+ ],
+ "11243": [
+  "Đêm mộng đẫm lệ",
+  "Đêm tàn sát lại hiện về trong mộng. Ngươi khóc mãi mà không hiểu vì sao.",
+  []
+ ],
+ "11244": [
+  "Cơn đau đầu",
+  "Đầu bỗng đau như búa bổ. Bao bóng người thoáng hiện, nhưng ngươi chẳng thể nhớ nổi một ai.",
+  []
+ ],
+ "11245": [
+  "Ước mong bình yên",
+  "Ngươi chỉ mong những tháng ngày yên bình này có thể kéo dài mãi mãi.",
+  []
+ ],
+ "11246": [
+  "Tình làng nghĩa xóm",
+  "Ngươi sống hòa thuận với dân làng, ai nấy đều quý mến ngươi.",
+  []
+ ],
+ "11247": [
+  "Trau dồi bản thân",
+  "Nhân lúc rảnh rỗi, ngươi muốn trau dồi bản thân. Nên làm gì trước?",
+  [
+   "Rèn thân",
+   "Đọc sách"
+  ]
+ ],
+ "11248": [
+  "Cường thân",
+  "Thân thể ngươi đã khỏe hơn trước.",
+  []
+ ],
+ "11249": [
+  "Khai trí",
+  "Đọc sách khiến đầu óc ngươi thêm linh mẫn.",
+  []
+ ],
+ "11250": [
+  "Sói dữ ngoài thôn",
+  "Sói ngoài thôn bỗng trở nên mạnh và hung hãn khác thường. Đã có không ít dân làng bị cắn.",
+  []
+ ],
+ "11251": [
+  "Tu vi hồi phục",
+  "Ngươi cảm nhận một dấu hiệu nhỏ cho thấy tu vi bắt đầu hồi phục.",
+  []
+ ],
+ "11252": [
+  "Hỷ sự",
+  "Năm nay Hoa Hoa hạ sinh cho ngươi một con trai. Ngươi không giấu nổi niềm vui.",
+  []
+ ],
+ "11253": [
+  "Lời đồn trong thôn",
+  "Trong thôn dấy lên lời đồn rằng ngươi mang vận rủi, sớm muộn sẽ đem tai họa tới.",
+  []
+ ],
+ "11254": [
+  "Tiếng gọi xa xăm",
+  "Gần đây ngươi thường cảm thấy có thứ gì đang gọi mình. Cõi lòng yên ả lại dậy sóng.",
+  []
+ ],
+ "11255": [
+  "Đường sao",
+  "Tỉnh giấc lúc đêm sâu, ngươi thấy tinh quang vạch thành đường. Lần theo đến tận cùng lại chính là cố trạch Tần gia.",
+  []
+ ],
+ "11256": [
+  "Tinh quang vây nhà",
+  "Tinh quang mỗi lúc một rực rỡ. Ngẩng nhìn, ngươi thấy cả trời sao vây quanh Tần gia, vậy mà người khác dường như chẳng hề hay biết.",
+  []
+ ],
+ "11257": [
+  "Cuồng lực",
+  "Sức mạnh đột nhiên tràn khắp thân thể. Lòng ngươi trở nên cuồng bạo, chỉ muốn phá hủy tất cả.",
+  []
+ ],
+ "11258": [
+  "Thú dữ vây làng",
+  "Dân làng liên tục bị thú dữ tập kích. Cuối cùng chúng kéo đến vây kín cả thôn!",
+  []
+ ],
+ "11259": [
+  "Cái giá của bí pháp",
+  "Ông của Hoa Hoa dùng bí pháp đẩy lui bầy thú, đổi bằng chính tính mạng. Sau khi nói gì đó với nàng, ông nhìn ngươi bằng ánh mắt như chất đầy oán hận.",
+  []
+ ],
+ "11260": [
+  "Lời thề bên nhau",
+  "Ngươi và Hoa Hoa vui chơi suốt ngày rồi hẹn ước cả đời không rời xa nhau.",
+  []
+ ],
+ "11261": [
+  "Ngày hóa đêm",
+  "Trời tối sầm, đến ban ngày cũng như biến mất. Dường như đó là một điềm báo.",
+  []
+ ],
+ "11262": [
+  "Rơi xuống vực",
+  "Ngươi lộn nhiều vòng giữa không trung, liên tiếp va vào đá núi và cây cối. Vực sâu dường như chẳng có đáy.",
+  []
+ ],
+ "11263": [
+  "Mất tri giác",
+  "Dẫu có chân khí hộ thể, ngươi vẫn đau đớn đến không còn cảm thấy thân thể thuộc về mình. Ý thức dần tan đi.",
+  []
+ ],
+ "11264": [
+  "Tịch lặng",
+  "…",
+  []
+ ],
+ "11265": [
+  "Tiếng người cứu mạng",
+  "Không biết bao lâu sau, ngươi nghe một thiếu nữ reo lên. Nàng vừa thấy ngón tay ngươi cử động và báo với ông rằng ngươi còn sống.",
+  []
+ ],
+ "11266": [
+  "Mở mắt",
+  "Được chăm sóc mấy hôm, ngươi mới mở mắt. Một thiếu nữ đang tròn mắt nhìn ngươi. Nàng dung mạo bình thường, song lúc này trong mắt ngươi lại tựa thiên thần.",
+  []
+ ],
+ "11267": [
+  "Ánh mắt trong veo",
+  "Thấy ngươi tỉnh, đôi mắt đầy lo lắng của thiếu nữ chợt sáng lên. Nàng vui mừng chạy đi báo cho ông.",
+  []
+ ],
+ "11268": [
+  "Tỉnh dậy quên đời",
+  "Ngươi bị trọng thương và đã quên quá khứ. Chỉ còn nhớ mình họ Tần, phải về cố trạch tìm một cuốn sách mang tên Tinh Thần Quyết.",
+  []
+ ],
+ "11269": [
+  "Lời ông lão",
+  "Ông lão mừng vì ngươi sống sót sau thương thế nặng đến vậy. Ông bảo ngươi an tâm dưỡng thương, dân làng dù cách biệt thế gian cũng chẳng hại ngươi.",
+  []
+ ],
+ "11270": [
+  "Dưỡng thương trong thôn",
+  "Thiếu nữ cứu ngươi tên Hoa Hoa. Ông của nàng chính là trưởng thôn. Thương thế dần bình phục, còn dĩ vãng ngỡ như đã thuộc về một người khác.",
+  []
+ ],
+ "11271": [
+  "Tình nảy chốn làng quê",
+  "Dẫu mất trí nhớ, cốt cách tu sĩ vẫn khiến ngươi nổi bật trong thôn. Hoa Hoa dần đem lòng thương ngươi. Ngươi cũng phát hiện cố trạch Tần gia ở gần đó.",
+  []
+ ],
+ "11272": [
+  "Thành thân cùng Hoa Hoa",
+  "Trưởng thôn muốn gả Hoa Hoa cho ngươi. Ngươi vốn cũng yêu nàng, bèn vui vẻ nhận lời. Năm ấy hai người nên duyên.",
+  []
+ ],
+ "11273": [
+  "Lễ cưới Trú Nhan Đan",
+  "Ông tặng đôi tân nhân một viên Trú Nhan Đan hiếm có. Sau khi uống, Hoa Hoa sẽ mãi giữ được dung mạo thời con gái.",
+  []
+ ],
+ "11274": [
+  "Đêm về cố trạch",
+  "Cái chết của trưởng thôn khiến ngươi đau buồn. Luồng lực kích động bầy thú dường như rất quen. Một đêm, trong cơn mơ màng, ngươi tìm đến cố trạch Tần gia.",
+  []
+ ],
+ "11275": [
+  "Tiếng gọi trong nhà",
+  "Đêm nay chẳng có dị tượng, chỉ có tiếng gọi thôi thúc ngươi bước tiếp. Ngươi đi sâu vào nhà cũ Tần gia.",
+  []
+ ],
+ "11276": [
+  "Hơi thở sau tường",
+  "Không khí gợn lên từng đợt, tựa như có thứ gì đang thở ở bên trong.",
+  []
+ ],
+ "11277": [
+  "Huyễn cảnh Tinh Không",
+  "Vừa bước vào mật thất, trước mắt ngươi chợt hoa lên. Khi định thần, ngươi đã ở giữa huyễn cảnh Tinh Không.",
+  []
+ ],
+ "11278": [
+  "Tinh tú chuyển dời",
+  "Vô số vì sao tỏa sáng xung quanh. Khác với sao trời thường thấy, chúng đang lao đi với tốc độ kinh người.",
+  []
+ ],
+ "11279": [
+  "Quang cầu ngũ sắc",
+  "Một quả cầu sáng khổng lồ xoay tít ở trung tâm. Tinh quang ngũ sắc vạch những đường biến ảo đến mức mắt thường chẳng thể dõi theo.",
+  []
+ ],
+ "11280": [
+  "Tinh tú va nhau",
+  "Sự hiện diện của ngươi dường như khiến tinh tú xao động. Chúng chệch khỏi quỹ đạo, va nhau rồi bừng lên những quầng sáng lóa mắt.",
+  []
+ ],
+ "11281": [
+  "Tâm cầu ngừng quay",
+  "Kỳ lạ thay, quả cầu ở trung tâm xoay chậm dần rồi dừng hẳn.",
+  []
+ ],
+ "11282": [
+  "Nghịch chuyển",
+  "Một tiếng nổ long trời! Quang cầu đột nhiên xoay ngược, mỗi lúc một nhanh.",
+  []
+ ],
+ "11283": [
+  "Hắc động",
+  "Mọi tinh tú dồn về trung tâm. Ánh sáng rực như ban ngày vụt tắt, để lại một hắc động khổng lồ.",
+  []
+ ],
+ "11284": [
+  "Tăm tối tuyệt đối",
+  "Năng lượng càng thêm bất ổn giữa màn đêm. Khi bóng tối lên đến cực điểm, ngươi không còn trông thấy bất cứ thứ gì.",
+  []
+ ],
+ "11285": [
+  "Ánh sao hồi sinh",
+  "Cảm giác tận thế chỉ thoáng qua. Một đốm sáng hiện lên trong hắc động rồi hóa thành vô số ánh sao.",
+  []
+ ],
+ "11286": [
+  "Tiếng nổ giữa tinh không",
+  "Ngươi nhắm nghiền mắt. Hết đợt nổ này đến đợt nổ khác dội tới, hơi thở tử vong khiến ngươi mãi không dám hé nhìn.",
+  []
+ ],
+ "11287": [
+  "Khoảng lặng giữa các vì sao",
+  "…",
+  []
+ ],
+ "11288": [
+  "Tinh hà vô chủ",
+  "Khi tiếng nổ lắng xuống, các vì sao lại hiện trong huyễn cảnh. Trung tâm đã biến mất, quỹ đạo của chúng cũng không còn trật tự.",
+  []
+ ],
+ "11289": [
+  "Trở lại mật thất",
+  "Huyễn cảnh Tinh Không tan cũng nhanh như lúc xuất hiện. Ngươi định thần thì đã trở lại mật thất.",
+  []
+ ],
+ "11290": [
+  "Kẻ được Tinh Thần Quyết chọn",
+  "Một giọng nói khen ngươi là người Tần gia đầu tiên xem trọn cảnh khởi nguyên vũ trụ. Tinh Thần Quyết đã chọn ngươi, khẩu quyết nay sẽ được truyền.",
+  []
+ ],
+ "11291": [
+  "Hai con đường tu",
+  "Vũ trụ tinh thần có sinh có diệt. Tinh Thần Quyết khởi ở vũ trụ, kết nơi nhân đạo. Giọng nói hỏi ngươi chọn lối tu nào.",
+  [
+   "Chính pháp thiên đạo",
+   "Lấy sát nhập đạo"
+  ]
+ ],
+ "11292": [
+  "Thử thách chính đạo",
+  "",
+  []
+ ],
+ "11293": [
+  "Thừa kế chính pháp",
+  "Năng lượng vô tận hòa vào thân thể. Ngươi nhận được truyền thừa Tinh Thần Quyết, tu vi đại tăng!",
+  []
+ ],
+ "11294": [
+  "Bạo thể vì truyền thừa",
+  "Khí tức ngày càng bất ổn khi năng lượng tràn vào. Ngươi không chịu nổi cơ duyên của Tinh Thần Quyết, cuối cùng bạo thể mà chết.",
+  []
+ ],
+ "11295": [
+  "Thử thách sát đạo",
+  "",
+  []
+ ],
+ "11296": [
+  "Lấy sát nhập đạo",
+  "Máu nóng sôi trào, sát ý trỗi dậy. Trong mắt ngươi vạn vật chỉ còn sống hoặc chết. Ngươi tiếp nhận truyền thừa Tinh Thần Quyết, tu vi đại tăng!",
+  []
+ ],
+ "11297": [
+  "Sát ý phản phệ",
+  "Máu trong người sục sôi, cơn đau vượt quá sức chịu đựng. Ngươi hóa thành kẻ chỉ biết giết chóc rồi tự kết liễu chính mình.",
+  []
+ ],
+ "11298": [
+  "Dị tượng tan đi",
+  "Khi ngươi nhận được Tinh Thần Quyết, dị tượng nơi cố trạch tan biến, thú dữ dịu lại. Tu vi lẫn thương thế của ngươi đều hoàn toàn hồi phục.",
+  []
+ ],
+ "11299": [
+  "Ánh nhìn dân thôn",
+  "Trên đường từ Tần gia về nhà Hoa Hoa, dân làng chỉ trỏ ngươi. Có lẽ họ nhận ra khí tức của ngươi giống hệt thứ đã kích động bầy thú.",
+  []
+ ],
+ "11300": [
+  "Sợ hãi trong mắt nàng",
+  "Ngươi vừa định lên tiếng thì thấy nỗi sợ hãi và oán hờn trong mắt Hoa Hoa. Có lẽ với họ, ngươi chỉ đem lại tai ương.",
+  []
+ ],
+ "11301": [
+  "Tín vật từ biệt",
+  "Lòng đau thắt, ngươi ghé tai Hoa Hoa nhận mọi lỗi lầm. Ngươi trao tín vật, hứa bất cứ khi nào nàng cần, ngươi nhất định sẽ đến giúp.",
+  []
+ ],
+ "11302": [
+  "Bóng lưng đi xa",
+  "Ngươi thở dài quay đi. Hoa Hoa ôm con trai, nhìn theo bóng ngươi mà khóc không ngừng.",
+  []
+ ],
+ "11303": [
+  "Mở đường ra ngoài",
+  "Trước khi rời thôn, ngươi khai thông con đường ra thế giới bên ngoài, để lại nhiều tài vật, mong bù đắp phần nào lỗi lầm.",
+  []
+ ],
+ "11304": [
+  "Tìm muội ở Cửu Huyền Cung",
+  "Nhờ Tinh Thần Quyết, tu vi đã đại tiến. Ngươi vượt sang dị giới, đến Cửu Huyền Cung thăm muội muội.",
+  []
+ ],
+ "11305": [
+  "Thần hồn trọng thương",
+  "Tạ Ký Dao nói thần hồn của muội muội bị thương quá nặng. Nàng đã thử nhiều cách mà chẳng cách nào hữu hiệu.",
+  []
+ ],
+ "11306": [
+  "Manh mối Dưỡng Hồn Mộc",
+  "Tạ Ký Dao dùng Cửu Thiên Huyền Băng phong kín muội muội, giữ nàng trong trạng thái giả tử. Nghe nói chỉ Dưỡng Hồn Mộc ở Tuyệt Trần Cốc mới có thể đánh thức nàng.",
+  []
+ ],
+ "11307": [
+  "Hiểm địa Tuyệt Trần",
+  "Trong Tuyệt Trần Cốc đầy cơ quan và cấm chế. Vài đệ tử Cửu Huyền Cung đã bỏ mạng ở đó, chẳng ai còn dám thử nữa.",
+  []
+ ],
+ "11308": [
+  "Bốn chữ ngoài cốc",
+  "Ngoài Tuyệt Trần Cốc đề bốn chữ “Kẻ xâm nhập chết”. Ngươi mỉm cười, bước thẳng vào trong.",
+  []
+ ],
+ "11309": [
+  "Kỳ môn độn giáp",
+  "Trước mắt hoa lên, ngươi rơi vào trận pháp kỳ môn độn giáp. Đã bao người mắc kẹt rồi bỏ mạng tại đây.",
+  []
+ ],
+ "11310": [
+  "Cảnh môn",
+  "Ngươi đang ở Cảnh môn. Tiếp theo nên đi đâu?",
+  [
+   "Thương môn",
+   "Đỗ môn"
+  ]
+ ],
+ "11311": [
+  "Thương môn",
+  "Ám khí tẩm độc ăn mòn linh lực trúng ngươi, khiến tu vi suy giảm. Từ Thương môn, ngươi đi đâu?",
+  [
+   "Cảnh môn",
+   "Tử môn"
+  ]
+ ],
+ "11312": [
+  "Đỗ môn",
+  "Không kịp tránh ám khí tẩm độc, ngươi bị thương và tổn hao tu vi. Từ Đỗ môn, ngươi đi đâu?",
+  [
+   "Kinh môn",
+   "Hưu môn"
+  ]
+ ],
+ "11313": [
+  "Kinh môn",
+  "Ám khí bắn trúng, độc ăn mòn linh lực làm tu vi suy giảm. Từ Kinh môn, ngươi đi đâu?",
+  [
+   "Hưu môn",
+   "Sinh môn"
+  ]
+ ],
+ "11314": [
+  "Tử môn",
+  "Trúng ám khí giữa tầng tầng cơ quan, ngươi mất một phần tu vi vì độc. Từ Tử môn, ngươi đi đâu?",
+  [
+   "Thương môn",
+   "Sinh môn"
+  ]
+ ],
+ "11315": [
+  "Hưu môn",
+  "Ám khí tẩm độc xuyên tới, khiến ngươi bị thương và hao tổn tu vi. Từ Hưu môn, ngươi đi đâu?",
+  [
+   "Sinh môn",
+   "Thương môn"
+  ]
+ ],
+ "11316": [
+  "Ngã rẽ Hưu môn",
+  "Một mũi ám khí trúng ngươi. Chất độc ăn mòn linh lực, khiến tu vi giảm sút. Từ Hưu môn, ngươi đi đâu?",
+  [
+   "Sinh môn",
+   "Kinh môn"
+  ]
+ ],
+ "11317": [
+  "Sinh môn",
+  "Ngươi đang ở Sinh môn. Tiếp theo nên đi đâu?",
+  [
+   "Cảnh môn",
+   "Hưu môn"
+  ]
+ ],
+ "11318": [
+  "Ngã rẽ Sinh môn",
+  "Đã tới Sinh môn. Ngươi sẽ chọn lối nào?",
+  [
+   "Thương môn",
+   "Khai môn"
+  ]
+ ],
+ "11319": [
+  "Khai môn",
+  "Cuối cùng ngươi cũng phá trận, lấy được Dưỡng Hồn Mộc! Ngươi quay về Cửu Huyền Cung cho muội muội dùng.",
+  []
+ ],
+ "11320": [
+  "Muội muội tỉnh lại",
+  "Muội muội mở mắt, thấy ngươi vẫn còn sống bên cạnh. Hai huynh muội ôm nhau khóc òa.",
+  []
+ ],
+ "11321": [
+  "Những ngày đoàn tụ",
+  "Sau một quãng ngày thảnh thơi bên muội, ngươi biết còn món nợ phải trả. Đã đến lúc báo thù.",
+  []
+ ],
+ "11322": [
+  "Thân phận Cửu Thiên Huyền Nữ",
+  "Tạ Ký Dao nói từ nay muội muội là Cửu Thiên Huyền Nữ, địa vị chỉ dưới chưởng môn. An lòng về tương lai của muội, ngươi lên đường đến La gia.",
+  []
+ ],
+ "11323": [
+  "Đứng trước La phủ",
+  "Xe ngựa tấp nập, mấy trăm tộc nhân La gia sống trong cảnh phồn hoa. Nhìn cảnh ấy, lòng ngươi chợt nhói.",
+  []
+ ],
+ "11324": [
+  "Tuyên chiến La gia",
+  "Ngươi tuyên bố muốn diệt La gia. Họ nào chịu ngồi yên, hai bên lập tức giao chiến.",
+  []
+ ],
+ "11325": [
+  "Quyết chiến báo thù",
+  "",
+  []
+ ],
+ "11326": [
+  "Kết cục của La gia",
+  "",
+  []
+ ],
+ "11327": [
+  "Bỏ mạng nơi La phủ",
+  "Có lẽ thương thế ở Tuyệt Trần Cốc quá nặng. Ngươi bại trận, bị nhạo là không biết lượng sức rồi bị giết không chút thương tình.",
+  []
+ ],
+ "11328": [
+  "Hạ gục La gia",
+  "Công lực tăng mạnh sau khi tu Tinh Thần Quyết. Người La gia chẳng còn là đối thủ, lần lượt bị ngươi đánh bại.",
+  []
+ ],
+ "11329": [
+  "Chỉ trừ thủ ác",
+  "Thường dân không biết chuyện cũ, chẳng đáng chịu tội. Ngươi chỉ giết những kẻ chủ chốt của La gia rồi rời đi.",
+  []
+ ],
+ "11330": [
+  "Phán quyết của người thắng",
+  "Nhờ Tinh Thần Quyết, ngươi đánh bại toàn bộ người La gia. Giờ sẽ xử trí họ thế nào?",
+  [
+   "Chỉ trừ thủ ác",
+   "Diệt môn"
+  ]
+ ],
+ "11331": [
+  "Thiên phú Sát Lục Chi Thần",
+  "Thiên phú Sát Lục Chi Thần thức tỉnh. Tiếng kêu cuối cùng của phụ thân và tộc nhân xoáy vào tim, hai mắt ngươi đỏ ngầu. La gia sẽ mãi nhớ màu đỏ của ngày này.",
+  []
+ ],
+ "11332": [
+  "Huyết vũ La gia",
+  "Ngươi tế ra hàng trăm phi kiếm. Kiếm xoáy trên không, tàn sát mọi sinh linh. Khi thu kiếm, cả bầu trời tựa vừa đổ một trận mưa máu.",
+  []
+ ],
+ "11333": [
+  "Báo thù đã tất",
+  "Trở lại Cửu Huyền Cung sau cuộc báo thù, ngươi thấy nụ cười của muội muội. Trái tim lạnh giá bỗng ấm lại. Chương ba khép lại.",
+  []
+ ],
+ "11334": [
+  "Sau cuộc báo thù",
+  "Mọi việc tưởng chừng đã xong. Bỗng nhiên ngươi chẳng biết tiếp theo phải làm gì.",
+  []
+ ],
+ "11335": [
+  "Tội của kẻ yếu",
+  "Ngẫm lại, ngươi chẳng thấy mình đã làm sai điều gì. Lẽ nào yếu đuối tự thân đã là một tội?",
+  []
+ ],
+ "11336": [
+  "Tự định vận mệnh",
+  "Ngươi chỉ còn cách mạnh lên, đến khi chẳng ai có thể định đoạt số mệnh thay mình.",
+  []
+ ],
+ "11337": [
+  "Từ biệt muội muội",
+  "Ngươi quyết chí đắc đạo phi thăng. Muội muội lưu luyến nhưng tôn trọng lựa chọn ấy. Hẹn ngày về thăm, ngươi rời Cửu Huyền Cung.",
+  []
+ ],
+ "11338": [
+  "Vân du",
+  "Ngươi bắt đầu hành trình tu luyện khắp thế gian, chẳng định trước điểm dừng.",
+  []
+ ],
+ "11339": [
+  "Tu giữa hồng trần",
+  "Sống giữa người phàm, trải nghiệm đời thường, ngươi dường như đã ngộ ra đôi điều.",
+  []
+ ],
+ "11340": [
+  "Thiếu nữ phàm trần",
+  "Một thiếu nữ xinh đẹp ngưỡng mộ ngươi, nhất quyết muốn cùng ngươi kết duyên. Ngươi chỉ mỉm cười.",
+  []
+ ],
+ "11341": [
+  "Tu vi đình trệ",
+  "Suốt năm nay, tu vi của ngươi chẳng tiến thêm bước nào.",
+  []
+ ],
+ "11342": [
+  "Băng sơn tuyết địa",
+  "Giữa non băng và đồng tuyết, ngươi tĩnh tâm ngộ đạo.",
+  []
+ ],
+ "11343": [
+  "U Minh Quỷ Giới",
+  "Ngươi tu hành, ngộ đạo nơi U Minh Quỷ Giới.",
+  []
+ ],
+ "11344": [
+  "Thập Vạn Đại Sơn",
+  "Giữa Thập Vạn Đại Sơn, ngươi chuyên tâm cầu đạo.",
+  []
+ ],
+ "11345": [
+  "Phần Thiên Luyện Ngục",
+  "Ngươi ngộ đạo giữa Phần Thiên Luyện Ngục.",
+  []
+ ],
+ "11346": [
+  "Dao Trì Thánh Địa",
+  "Ngươi tìm hiểu đạo pháp tại Dao Trì Thánh Địa.",
+  []
+ ],
+ "11347": [
+  "Linh Diệu Sơn",
+  "Ngươi ngộ đạo tu hành trên Linh Diệu Sơn.",
+  []
+ ],
+ "11348": [
+  "Khí huyết nghịch hành",
+  "Tẩu hỏa nhập ma khiến ngươi thổ huyết, tu vi suy giảm.",
+  []
+ ],
+ "11349": [
+  "Thu nhận đệ tử",
+  "Ngươi nhận một đệ tử có tư chất. Sinh trong nhà phú quý, hắn dâng nhiều tài vật bái sư.",
+  []
+ ],
+ "11350": [
+  "Tiên phàm",
+  "Người phàm yếu đuối nhưng thường tươi cười. Tu sĩ dù mạnh, biết đâu ngày mai lại chết dưới tay người. Tiên phàm thực khác nhau bao nhiêu?",
+  []
+ ],
+ "11351": [
+  "Mỹ nam bày tỏ",
+  "Một mỹ nam say mê ngươi, đòi cùng ngươi sinh con. Ngươi tung một quyền đánh hắn văng xa năm trăm dặm.",
+  []
+ ],
+ "11352": [
+  "Chiến hỏa phàm gian",
+  "Phàm gian bùng nổ đại chiến, ngươi chẳng muốn can dự.",
+  []
+ ],
+ "11353": [
+  "Ma tộc khai chiến",
+  "Ma tộc và nhân tộc dường như đã khai chiến. Ngươi vẫn chẳng bận lòng.",
+  []
+ ],
+ "11354": [
+  "Bí cảnh thời không",
+  "Bước vào bí cảnh thời không, ngươi tu luyện bên trong suốt hai mươi năm.",
+  []
+ ],
+ "11355": [
+  "Nhất tâm tu hành",
+  "Ngoài tu luyện, ngươi chẳng còn hứng thú với điều gì.",
+  []
+ ],
+ "11356": [
+  "Khách khanh",
+  "Ngươi trở thành khách khanh của một tông môn ẩn thế.",
+  []
+ ],
+ "11357": [
+  "Động phủ truyền thừa",
+  "Ngươi để lại một động phủ truyền thừa, dẫn tới vô số người đến tranh đoạt.",
+  []
+ ],
+ "11358": [
+  "Thối thể viên mãn",
+  "Năm nay ngươi thối thể viên mãn, thể chất tăng mạnh.",
+  []
+ ],
+ "11359": [
+  "Đại năng giao phong",
+  "Đối thủ nhỉnh hơn một bậc. Suýt mất mạng, ngươi phải hao tổn lượng lớn bản mệnh tinh nguyên mới trốn thoát.",
+  []
+ ],
+ "11360": [
+  "Tu trên đỉnh Hỗn Độn",
+  "Linh khí hỗn độn trên đỉnh núi khiến ngươi bị thương khi tu luyện.",
+  []
+ ],
+ "11361": [
+  "Dung hợp phản phệ",
+  "Thử dung hợp hàng chục pháp môn nhưng bất thành, ngươi phải chịu phản phệ.",
+  []
+ ],
+ "11362": [
+  "Tự sáng công pháp",
+  "Ngươi sáng tạo được một môn công pháp mới.",
+  []
+ ],
+ "11363": [
+  "Tu dưới lôi đình",
+  "Giữa giông tố, ngươi mượn lôi điện tu hành. Thiên uy vượt quá sức chịu đựng, khiến ngươi trọng thương.",
+  []
+ ],
+ "11364": [
+  "Loạn chiến thất quốc",
+  "Bảy nước nhân tộc hỗn chiến, dân thường chết vô số. Ngươi tự hỏi cuộc sát phạt này rốt cuộc vì đâu.",
+  []
+ ],
+ "11365": [
+  "Bị vây cướp",
+  "Một toán tu sĩ vây ngươi, nhòm ngó tài vật trên người. Ngươi chọn cách nào?",
+  [
+   "Nghênh chiến",
+   "Giao tài vật"
+  ]
+ ],
+ "11366": [
+  "Giao chiến với bọn cướp",
+  "",
+  []
+ ],
+ "11367": [
+  "Đoạt lại chiến lợi phẩm",
+  "Ngươi dễ dàng đánh bại bọn chúng, còn thu được nhiều vật đáng giá.",
+  []
+ ],
+ "11368": [
+  "Diệt khẩu",
+  "Bọn chúng đánh bại ngươi rồi quyết nhổ cỏ tận gốc. Ngươi mất mạng.",
+  []
+ ],
+ "11369": [
+  "Nhịn nhục giao nộp",
+  "Ngươi ngoan ngoãn giao nộp nhiều tài vật.",
+  []
+ ],
+ "11370": [
+  "Đại hội đấu giá",
+  "Một phiên đấu giá lớn sắp diễn ra. Ngươi có muốn tham dự?",
+  [
+   "Tham dự",
+   "Bỏ qua"
+  ]
+ ],
+ "11371": [
+  "Phiên đấu giá đầu",
+  "",
+  []
+ ],
+ "11372": [
+  "Đan dược trợ tu",
+  "Ngươi mua đan dược, tu vi tăng lên. Có tiếp tục đấu giá chăng?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11373": [
+  "Phiên đấu giá thứ hai",
+  "",
+  []
+ ],
+ "11374": [
+  "Mua pháp khí",
+  "Ngươi mua pháp khí, tu vi tăng lên. Còn muốn tham dự chăng?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11375": [
+  "Phiên đấu giá thứ ba",
+  "",
+  []
+ ],
+ "11376": [
+  "Trung phẩm linh đan",
+  "Ngươi mua trung phẩm đan dược, tu vi tinh tiến. Có mua tiếp chăng?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11377": [
+  "Phiên đấu giá cuối",
+  "",
+  []
+ ],
+ "11378": [
+  "Cực phẩm linh đan",
+  "Mua được cực phẩm đan dược giúp tăng tu vi, ngươi mãn nguyện trở về.",
+  []
+ ],
+ "11379": [
+  "Rời phiên đấu giá",
+  "Nghĩ đến túi tiền, ngươi quyết định dừng tay.",
+  []
+ ],
+ "11380": [
+  "Túi tiền đã cạn",
+  "Ngươi muốn ra giá tiếp nhưng tiền chẳng còn đủ, đành quay về.",
+  []
+ ],
+ "11381": [
+  "Mộng ma",
+  "Tẩu hỏa khi tu luyện, ngươi mắc kẹt trong ác mộng. Có cưỡng ép tỉnh lại ngay chăng?",
+  [
+   "Tỉnh lại",
+   "Chờ thêm"
+  ]
+ ],
+ "11382": [
+  "Thoát mộng",
+  "Ngươi cắn mạnh đầu lưỡi, hao tổn rất nhiều bản mệnh tinh huyết mới thoát khỏi cơn mê.",
+  []
+ ],
+ "11383": [
+  "Trường miên",
+  "Ngươi chờ xem biến chuyển, nhưng càng lúc càng mệt. Cuối cùng ngươi chìm vào giấc ngủ vĩnh viễn.",
+  []
+ ],
+ "11384": [
+  "Hộp đen",
+  "Bên chiếc hộp đen tình cờ nhặt được hiện ra một bóng người tự xưng có thực lực Tán Tiên. Hắn muốn thu ngươi làm đồ đệ.",
+  [
+   "Bái sư",
+   "Từ chối"
+  ]
+ ],
+ "11385": [
+  "Đoạt xá",
+  "Mất cảnh giác, ngươi luyện công pháp hắn truyền. Hắn đoạt lấy thân xác ngươi, chẳng bao lâu hồn ngươi cũng tan biến.",
+  []
+ ],
+ "11386": [
+  "Luyện hóa tàn hồn",
+  "Ngươi từ chối, nhận ra đó là tàn hồn muốn đoạt xá và luyện hóa nó.",
+  []
+ ],
+ "11387": [
+  "Thượng cổ thần long",
+  "Một thượng cổ thần long nói có thể thực hiện nguyện vọng của ngươi. Ngươi có cầu nguyện chăng?",
+  [
+   "Ước nguyện",
+   "Bỏ qua"
+  ]
+ ],
+ "11388": [
+  "Long duyên thứ nhất",
+  "",
+  []
+ ],
+ "11389": [
+  "Trường Sinh Quyết",
+  "Ngươi nhận được Trường Sinh Quyết, tu vi tăng lên. Còn muốn xin tiếp?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11390": [
+  "Long duyên thứ hai",
+  "",
+  []
+ ],
+ "11391": [
+  "Tiên Thiên Thần Công",
+  "Ngươi nhận được Tiên Thiên Thần Công, tu vi tăng lên. Còn muốn xin tiếp?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11392": [
+  "Long duyên thứ ba",
+  "",
+  []
+ ],
+ "11393": [
+  "Cửu Chuyển Kim Thân Quyết",
+  "Ngươi nhận được Cửu Chuyển Kim Thân Quyết, tu vi tăng lên. Còn muốn xin tiếp?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11394": [
+  "Long duyên thứ tư",
+  "",
+  []
+ ],
+ "11395": [
+  "Đại Đạo Phù Đồ Quyết",
+  "Ngươi nhận được Đại Đạo Phù Đồ Quyết, tu vi tăng lên. Còn muốn xin tiếp?",
+  [
+   "Tiếp tục",
+   "Dừng lại"
+  ]
+ ],
+ "11396": [
+  "Long duyên thứ năm",
+  "",
+  []
+ ],
+ "11397": [
+  "Thái Cổ Chân Long Quyết",
+  "Được truyền Thái Cổ Chân Long Quyết, tu vi ngươi tinh tiến. Thần long bảo cơ duyên ngươi quá tốt, nó chẳng còn gì để tặng.",
+  []
+ ],
+ "11398": [
+  "Khí vận cạn kiệt",
+  "Ngươi đã tiêu hao quá nhiều khí vận. Trời giáng Cửu Thiên Thần Lôi, đánh ngươi tan xác.",
+  []
+ ],
+ "11399": [
+  "Từ chối thần long",
+  "Thấy chuyện khác thường, ngươi quyết định cẩn trọng, chẳng cầu xin gì.",
+  []
+ ],
+ "11400": [
+  "Thầy xem tướng",
+  "Nghe thầy tướng đoán vận năm nay rất tốt, ngươi vui lòng thưởng nhiều tài vật.",
+  []
+ ],
+ "11401": [
+  "Kim chi đại đạo",
+  "Ngươi lĩnh ngộ được Kim chi đại đạo.",
+  []
+ ],
+ "11402": [
+  "Mộc chi đại đạo",
+  "Ngươi lĩnh ngộ được Mộc chi đại đạo.",
+  []
+ ],
+ "11403": [
+  "Thủy chi đại đạo",
+  "Ngươi lĩnh ngộ được Thủy chi đại đạo.",
+  []
+ ],
+ "11404": [
+  "Hỏa chi đại đạo",
+  "Ngươi lĩnh ngộ được Hỏa chi đại đạo.",
+  []
+ ],
+ "11405": [
+  "Thổ chi đại đạo",
+  "Ngươi lĩnh ngộ được Thổ chi đại đạo.",
+  []
+ ],
+ "11406": [
+  "Kiếm đạo",
+  "Ngươi lĩnh ngộ được Kiếm đạo.",
+  []
+ ],
+ "11407": [
+  "Lôi đạo",
+  "Ngươi lĩnh ngộ được Lôi đạo.",
+  []
+ ],
+ "11408": [
+  "Điện đạo",
+  "Ngươi lĩnh ngộ được Điện đạo.",
+  []
+ ],
+ "11409": [
+  "Phong đạo",
+  "Ngươi lĩnh ngộ được Phong đạo.",
+  []
+ ],
+ "11410": [
+  "Quang đạo",
+  "Ngươi lĩnh ngộ được Quang đạo.",
+  []
+ ],
+ "11411": [
+  "Không gian chi đạo",
+  "Ngươi lĩnh ngộ được Không gian chi đạo.",
+  []
+ ],
+ "11412": [
+  "Thời gian chi đạo",
+  "Ngươi lĩnh ngộ được Thời gian chi đạo.",
+  []
+ ],
+ "11413": [
+  "Sinh mệnh chi đạo",
+  "Ngươi lĩnh ngộ được Sinh mệnh chi đạo.",
+  []
+ ],
+ "11414": [
+  "Diệt vong chi đạo",
+  "Ngươi lĩnh ngộ được Diệt vong chi đạo.",
+  []
+ ],
+ "11415": [
+  "Bảo toàn năng lượng",
+  "Ngộ ra định luật bảo toàn năng lượng, ngươi có thể chuyển thuộc tính bản thân thành tu vi.",
+  []
+ ],
+ "11416": [
+  "Chuyển hóa thể chất",
+  "Vận dụng định luật bảo toàn năng lượng, ngươi chuyển một phần thể chất thành tu vi.",
+  []
+ ],
+ "11417": [
+  "Chuyển hóa ngộ tính",
+  "Vận dụng định luật bảo toàn năng lượng, ngươi chuyển một phần ngộ tính thành tu vi.",
+  []
+ ],
+ "11418": [
+  "Chuyển hóa mị lực",
+  "Vận dụng định luật bảo toàn năng lượng, ngươi chuyển một phần mị lực thành tu vi.",
+  []
+ ],
+ "11419": [
+  "Chuyển hóa thân pháp",
+  "Vận dụng định luật bảo toàn năng lượng, ngươi chuyển một phần thân pháp thành tu vi.",
+  []
+ ],
+ "11420": [
+  "Chuyển hóa danh vọng",
+  "Vận dụng định luật bảo toàn năng lượng, ngươi chuyển một phần danh vọng thành tu vi.",
+  []
+ ],
+ "11421": [
+  "Tam Giới Hỗn Độn Bảng",
+  "Chiến lực của ngươi đứng thứ 123.456.789 trên Tam Giới Hỗn Độn Bảng.",
+  []
+ ],
+ "11422": [
+  "Tam Giới Hỗn Độn Bảng",
+  "Chiến lực của ngươi đứng thứ 12.345.678 trên Tam Giới Hỗn Độn Bảng.",
+  []
+ ],
+ "11423": [
+  "Tam Giới Hỗn Độn Bảng",
+  "Chiến lực của ngươi đứng thứ 1.234.567 trên Tam Giới Hỗn Độn Bảng.",
+  []
+ ]
+}

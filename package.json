@@ -1,0 +1,25 @@
+{
+  "name": "tutien789-ai-studio-react",
+  "private": true,
+  "version": "0.4.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
+    "restore:apk-assets": "node tools/restore-original.cjs",
+    "predev": "npm run restore:apk-assets",
+    "prebuild": "npm run restore:apk-assets",
+    "test": "node tests/original.mjs && node tests/localization.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.1.0"
+  }
+}

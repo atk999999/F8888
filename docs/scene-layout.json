@@ -1,0 +1,10168 @@
+{
+ "level0": {
+  "1": {
+   "name": "Label",
+   "parent": 7,
+   "position": [
+    0.0,
+    -450.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "2": {
+   "name": "Label (1)",
+   "parent": 3,
+   "position": [
+    0.0,
+    8.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防受骗上当。\r\n适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。"
+   ]
+  },
+  "3": {
+   "name": "健康游戏忠告",
+   "parent": 7,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "4": {
+   "name": "Label (2)",
+   "parent": 3,
+   "position": [
+    0.0,
+    266.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "健康游戏忠告"
+   ]
+  },
+  "5": {
+   "name": "Camera",
+   "parent": 7,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "6": {
+   "name": "version",
+   "parent": 7,
+   "position": [
+    -315.0,
+    -632.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "版本:-1"
+   ]
+  },
+  "7": {
+   "name": "UI Root",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.0015625000232830644,
+    0.0015625000232830644,
+    0.0015625000232830644
+   ],
+   "active": true,
+   "localizedStrings": []
+  }
+ },
+ "level1": {
+  "1": {
+   "name": "行动2",
+   "parent": 205,
+   "position": [
+    350.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "2": {
+   "name": "中间文字点击",
+   "parent": 75,
+   "position": [
+    0.0,
+    -395.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "3": {
+   "name": "第二层SV",
+   "parent": 164,
+   "position": [
+    0.0,
+    -103.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "4": {
+   "name": "l",
+   "parent": 12,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "筛选"
+   ]
+  },
+  "5": {
+   "name": "SV",
+   "parent": 3,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "6": {
+   "name": "暂无游戏",
+   "parent": 129,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "暂无游戏"
+   ]
+  },
+  "7": {
+   "name": "关闭",
+   "parent": 164,
+   "position": [
+    305.0155029296875,
+    551.9871826171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "8": {
+   "name": "开始",
+   "parent": 180,
+   "position": [
+    0.0,
+    -485.6199951171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "9": {
+   "name": "l",
+   "parent": 46,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "日榜"
+   ]
+  },
+  "10": {
+   "name": "行动1",
+   "parent": 205,
+   "position": [
+    175.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "11": {
+   "name": "UI显示层",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "12": {
+   "name": "筛选",
+   "parent": 119,
+   "position": [
+    177.0,
+    426.015625,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "13": {
+   "name": "DebugReport",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "14": {
+   "name": "UI Root",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.0015625000232830644,
+    0.0015625000232830644,
+    0.0015625000232830644
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "15": {
+   "name": "最大值",
+   "parent": 70,
+   "position": [
+    75.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "16": {
+   "name": "ActionOne",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "17": {
+   "name": "最小值",
+   "parent": 70,
+   "position": [
+    -75.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "18": {
+   "name": "line",
+   "parent": 20,
+   "position": [
+    0.0,
+    517.5999755859375,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "19": {
+   "name": "占位",
+   "parent": 33,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "20": {
+   "name": "主界面",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "21": {
+   "name": "bottomMenu",
+   "parent": 20,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "22": {
+   "name": "进行",
+   "parent": 205,
+   "position": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "23": {
+   "name": "设置",
+   "parent": 119,
+   "position": [
+    177.0,
+    511.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "24": {
+   "name": "sv_bar",
+   "parent": 75,
+   "position": [
+    354.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "25": {
+   "name": "Label",
+   "parent": 10,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "行動1"
+   ]
+  },
+  "26": {
+   "name": "广告",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "27": {
+   "name": "分支",
+   "parent": 67,
+   "position": [
+    130.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "28": {
+   "name": "不可触发",
+   "parent": 67,
+   "position": [
+    -50.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "29": {
+   "name": "中间文字点击",
+   "parent": 3,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "30": {
+   "name": "你的初始天赋",
+   "parent": 194,
+   "position": [
+    0.0,
+    -93.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "你的初始天赋"
+   ]
+  },
+  "31": {
+   "name": "关闭",
+   "parent": 157,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "32": {
+   "name": "两边",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "33": {
+   "name": "SV",
+   "parent": 75,
+   "position": [
+    0.0,
+    -395.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "34": {
+   "name": "页数",
+   "parent": 118,
+   "position": [
+    171.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "共10页"
+   ]
+  },
+  "35": {
+   "name": "L",
+   "parent": 85,
+   "position": [
+    0.0,
+    -3.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "我要修真"
+   ]
+  },
+  "36": {
+   "name": "背景",
+   "parent": 20,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景2"
+   ]
+  },
+  "37": {
+   "name": "l",
+   "parent": 27,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "分支:1"
+   ]
+  },
+  "38": {
+   "name": "左",
+   "parent": 32,
+   "position": [
+    -360.0,
+    -35.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "39": {
+   "name": "TextList",
+   "parent": 75,
+   "position": [
+    0.0,
+    135.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "40": {
+   "name": "Manage",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "41": {
+   "name": "界面",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "42": {
+   "name": "v",
+   "parent": 55,
+   "position": [
+    3.999998092651367,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "43": {
+   "name": "l",
+   "parent": 86,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可触发:1"
+   ]
+  },
+  "44": {
+   "name": "l",
+   "parent": 15,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "45": {
+   "name": "总榜",
+   "parent": 118,
+   "position": [
+    62.00000762939453,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "46": {
+   "name": "日榜",
+   "parent": 118,
+   "position": [
+    -178.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "47": {
+   "name": "关于我们",
+   "parent": 91,
+   "position": [
+    0.0,
+    -342.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "48": {
+   "name": "-",
+   "parent": 70,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "49": {
+   "name": "TopUI",
+   "parent": 20,
+   "position": [
+    0.0,
+    595.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "50": {
+   "name": "k",
+   "parent": 55,
+   "position": [
+    -6.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "修为"
+   ]
+  },
+  "51": {
+   "name": "Label",
+   "parent": 64,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "随机属性"
+   ]
+  },
+  "52": {
+   "name": "L",
+   "parent": 87,
+   "position": [
+    -215.0,
+    -15.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "修仙模拟器"
+   ]
+  },
+  "53": {
+   "name": "Sprite",
+   "parent": 47,
+   "position": [
+    -104.0,
+    18.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "联系"
+   ]
+  },
+  "54": {
+   "name": "按钮",
+   "parent": 55,
+   "position": [
+    -65.5999984741211,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "55": {
+   "name": "TopUI_One",
+   "parent": 49,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "56": {
+   "name": "l",
+   "parent": 66,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "周榜"
+   ]
+  },
+  "57": {
+   "name": "新游",
+   "parent": 118,
+   "position": [
+    -298.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "58": {
+   "name": "l",
+   "parent": 23,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "设置存档"
+   ]
+  },
+  "59": {
+   "name": "占位",
+   "parent": 194,
+   "position": [
+    0.0,
+    -262.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "60": {
+   "name": "占位",
+   "parent": 83,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "61": {
+   "name": "l",
+   "parent": 45,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "总榜"
+   ]
+  },
+  "62": {
+   "name": "l",
+   "parent": 17,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "63": {
+   "name": "左 (1)",
+   "parent": 32,
+   "position": [
+    360.0,
+    -35.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "64": {
+   "name": "随机",
+   "parent": 180,
+   "position": [
+    0.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "65": {
+   "name": "l",
+   "parent": 57,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "新游"
+   ]
+  },
+  "66": {
+   "name": "周榜",
+   "parent": 118,
+   "position": [
+    -57.70000076293945,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "67": {
+   "name": "事件3个选项",
+   "parent": 3,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "68": {
+   "name": "Label",
+   "parent": 8,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始转生"
+   ]
+  },
+  "69": {
+   "name": "Label",
+   "parent": 22,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "進行"
+   ]
+  },
+  "70": {
+   "name": "年",
+   "parent": 119,
+   "position": [
+    -98.0078125,
+    425.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "71": {
+   "name": "UI_P",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "72": {
+   "name": "label",
+   "parent": 39,
+   "position": [
+    -347.70001220703125,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "73": {
+   "name": "time",
+   "parent": 87,
+   "position": [
+    -303.0,
+    -15.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "100岁"
+   ]
+  },
+  "74": {
+   "name": "l",
+   "parent": 28,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "不触发:100"
+   ]
+  },
+  "75": {
+   "name": "中间文字",
+   "parent": 20,
+   "position": [
+    0.0,
+    390.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "76": {
+   "name": "第一层",
+   "parent": 11,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "77": {
+   "name": "Camera",
+   "parent": 14,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "78": {
+   "name": "名称",
+   "parent": 70,
+   "position": [
+    -180.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "年"
+   ]
+  },
+  "79": {
+   "name": "l",
+   "parent": 81,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "我创建的游戏"
+   ]
+  },
+  "80": {
+   "name": "Label",
+   "parent": 1,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "行動2"
+   ]
+  },
+  "81": {
+   "name": "我创建游戏",
+   "parent": 197,
+   "position": [
+    230.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "82": {
+   "name": "中间背景",
+   "parent": 75,
+   "position": [
+    0.0,
+    -403.98760986328125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "83": {
+   "name": "SV",
+   "parent": 194,
+   "position": [
+    0.0,
+    -262.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "84": {
+   "name": "l",
+   "parent": 89,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "新建事件"
+   ]
+  },
+  "85": {
+   "name": "按钮",
+   "parent": 87,
+   "position": [
+    -94.69999694824219,
+    -117.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "86": {
+   "name": "可触发",
+   "parent": 67,
+   "position": [
+    -230.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "87": {
+   "name": "中间文字One",
+   "parent": 75,
+   "position": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "88": {
+   "name": "Label",
+   "parent": 47,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关于我们"
+   ]
+  },
+  "89": {
+   "name": "新建",
+   "parent": 184,
+   "position": [
+    247.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "90": {
+   "name": "Sprite",
+   "parent": 92,
+   "position": [
+    -104.0,
+    18.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "地球"
+   ]
+  },
+  "91": {
+   "name": "开始界面",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "92": {
+   "name": "论坛",
+   "parent": 91,
+   "position": [
+    0.0,
+    -242.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "93": {
+   "name": "Start",
+   "parent": 91,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "94": {
+   "name": "bg",
+   "parent": 91,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景图"
+   ]
+  },
+  "95": {
+   "name": "Label",
+   "parent": 92,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "创造世界"
+   ]
+  },
+  "96": {
+   "name": "重开",
+   "parent": 91,
+   "position": [
+    0.0,
+    -142.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "97": {
+   "name": "Label",
+   "parent": 96,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始剧情"
+   ]
+  },
+  "98": {
+   "name": "Sprite",
+   "parent": 96,
+   "position": [
+    -84.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "循环图标"
+   ]
+  },
+  "99": {
+   "name": "忠告",
+   "parent": 127,
+   "position": [
+    0.0,
+    -538.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\r\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。\n\n著作权人：桂林异幻网络科技有限公司"
+   ]
+  },
+  "100": {
+   "name": "bg",
+   "parent": 164,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "101": {
+   "name": "l",
+   "parent": 150,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "102": {
+   "name": "l",
+   "parent": 120,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上页"
+   ]
+  },
+  "103": {
+   "name": "Report",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "104": {
+   "name": "名称",
+   "parent": 119,
+   "position": [
+    -76.796875,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "不限定名称"
+   ]
+  },
+  "105": {
+   "name": "作者上半P",
+   "parent": 197,
+   "position": [
+    -6.0,
+    -69.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "106": {
+   "name": "下半部",
+   "parent": 156,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "107": {
+   "name": "排序按钮",
+   "parent": 108,
+   "position": [
+    -68.69999694824219,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.996834933757782,
+    0.996834933757782,
+    0.996834933757782
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "108": {
+   "name": "排序",
+   "parent": 3,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "109": {
+   "name": "名称",
+   "parent": 108,
+   "position": [
+    -285.49981689453125,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.996834933757782,
+    0.996834933757782,
+    0.996834933757782
+   ],
+   "active": true,
+   "localizedStrings": [
+    "排序"
+   ]
+  },
+  "110": {
+   "name": "删除",
+   "parent": 169,
+   "position": [
+    337.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "111": {
+   "name": "下页",
+   "parent": 118,
+   "position": [
+    82.99999237060547,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "112": {
+   "name": "关闭",
+   "parent": 171,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "113": {
+   "name": "开始",
+   "parent": 106,
+   "position": [
+    0.0,
+    -505.1953125,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "114": {
+   "name": "Label",
+   "parent": 113,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "分配属性"
+   ]
+  },
+  "115": {
+   "name": "获取所有天赋",
+   "parent": 106,
+   "position": [
+    -160.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "116": {
+   "name": "Label",
+   "parent": 115,
+   "position": [
+    28.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "获取所有天赋"
+   ]
+  },
+  "117": {
+   "name": "l",
+   "parent": 111,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下页"
+   ]
+  },
+  "118": {
+   "name": "列表上半P",
+   "parent": 197,
+   "position": [
+    19.0,
+    -13.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "119": {
+   "name": "上半P",
+   "parent": 143,
+   "position": [
+    0.0,
+    91.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "120": {
+   "name": "上页",
+   "parent": 118,
+   "position": [
+    -177.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "121": {
+   "name": "作者登出",
+   "parent": 105,
+   "position": [
+    0.0,
+    569.0671997070312,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "122": {
+   "name": "免广告",
+   "parent": 106,
+   "position": [
+    0.0,
+    -335.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "免广告:5"
+   ]
+  },
+  "123": {
+   "name": "Sprite",
+   "parent": 125,
+   "position": [
+    -85.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "播放"
+   ]
+  },
+  "124": {
+   "name": "Label",
+   "parent": 125,
+   "position": [
+    28.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "获取10次刷新天赋\r"
+   ]
+  },
+  "125": {
+   "name": "刷新天赋",
+   "parent": 106,
+   "position": [
+    160.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "126": {
+   "name": "Sprite",
+   "parent": 115,
+   "position": [
+    -85.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "播放"
+   ]
+  },
+  "127": {
+   "name": "备案信息",
+   "parent": 91,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "128": {
+   "name": "l",
+   "parent": 121,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者登出"
+   ]
+  },
+  "129": {
+   "name": "游戏列表",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "130": {
+   "name": "浏览记录",
+   "parent": 197,
+   "position": [
+    -230.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "131": {
+   "name": "名称",
+   "parent": 118,
+   "position": [
+    -305.00341796875,
+    511.0129699707031,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "翻页"
+   ]
+  },
+  "132": {
+   "name": "作者注册",
+   "parent": 139,
+   "position": [
+    -234.0,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "133": {
+   "name": "事件名",
+   "parent": 129,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "134": {
+   "name": "参与测试",
+   "parent": 118,
+   "position": [
+    191.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "135": {
+   "name": "备案号",
+   "parent": 127,
+   "position": [
+    0.0,
+    -597.2999877929688,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "[u]桂ICP备2023007719号-3A[-]"
+   ]
+  },
+  "136": {
+   "name": "标题",
+   "parent": 164,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "事件筛选"
+   ]
+  },
+  "137": {
+   "name": "声音",
+   "parent": 91,
+   "position": [
+    284.0,
+    -435.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "声音开"
+   ]
+  },
+  "138": {
+   "name": "标题",
+   "parent": 91,
+   "position": [
+    0.0,
+    423.1000061035156,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始标题"
+   ]
+  },
+  "139": {
+   "name": "loginP",
+   "parent": 105,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "140": {
+   "name": "l",
+   "parent": 132,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者注册"
+   ]
+  },
+  "141": {
+   "name": "Label",
+   "parent": 202,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "第一类别",
+    "按钮框",
+    "按钮框",
+    "人阶",
+    "地阶",
+    "天阶",
+    "所有等阶"
+   ]
+  },
+  "142": {
+   "name": "SV",
+   "parent": 143,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "143": {
+   "name": "第一层SV",
+   "parent": 164,
+   "position": [
+    0.0,
+    -103.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "144": {
+   "name": "作者登录",
+   "parent": 139,
+   "position": [
+    -59.99609375,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "145": {
+   "name": "当前页",
+   "parent": 118,
+   "position": [
+    -47.00000762939453,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "146": {
+   "name": "l",
+   "parent": 130,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "浏览记录"
+   ]
+  },
+  "147": {
+   "name": "菜单",
+   "parent": 205,
+   "position": [
+    525.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "148": {
+   "name": "Label",
+   "parent": 147,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "菜單"
+   ]
+  },
+  "149": {
+   "name": "bg",
+   "parent": 21,
+   "position": [
+    0.0,
+    -557.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "150": {
+   "name": "当前页",
+   "parent": 184,
+   "position": [
+    -47.00000762939453,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "151": {
+   "name": "中间文字点击",
+   "parent": 143,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "152": {
+   "name": "l",
+   "parent": 134,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "参与测试"
+   ]
+  },
+  "153": {
+   "name": "出生天赋",
+   "parent": 171,
+   "position": [
+    0.0,
+    516.9921875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "你的出生天赋"
+   ]
+  },
+  "154": {
+   "name": "可使用点数",
+   "parent": 171,
+   "position": [
+    0.0,
+    444.765625,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "(最多选择3个)"
+   ]
+  },
+  "155": {
+   "name": "bg",
+   "parent": 156,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "156": {
+   "name": "选择天赋",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "157": {
+   "name": "上半部",
+   "parent": 180,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "158": {
+   "name": "添加",
+   "parent": 197,
+   "position": [
+    0.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "159": {
+   "name": "l",
+   "parent": 104,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "不限定名称"
+   ]
+  },
+  "160": {
+   "name": "l",
+   "parent": 191,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "161": {
+   "name": "事件名",
+   "parent": 164,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "162": {
+   "name": "名称",
+   "parent": 184,
+   "position": [
+    -305.00341796875,
+    511.0129699707031,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "翻页"
+   ]
+  },
+  "163": {
+   "name": "l",
+   "parent": 158,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "添加天赋"
+   ]
+  },
+  "164": {
+   "name": "事件筛选",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "165": {
+   "name": "查看密码",
+   "parent": 139,
+   "position": [
+    115.0,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "166": {
+   "name": "名称",
+   "parent": 104,
+   "position": [
+    -201.2078094482422,
+    -1.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "名称"
+   ]
+  },
+  "167": {
+   "name": "l",
+   "parent": 168,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "返回"
+   ]
+  },
+  "168": {
+   "name": "返回",
+   "parent": 21,
+   "position": [
+    0.0,
+    -589.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "169": {
+   "name": "弹出选项",
+   "parent": 41,
+   "position": [
+    1852.0,
+    2508.999755859375,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "170": {
+   "name": "l",
+   "parent": 107,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "以事件名称排序"
+   ]
+  },
+  "171": {
+   "name": "上半部",
+   "parent": 156,
+   "position": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "172": {
+   "name": "标题",
+   "parent": 129,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "天赋列表"
+   ]
+  },
+  "173": {
+   "name": "加",
+   "parent": 178,
+   "position": [
+    47.0,
+    22.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "加"
+   ]
+  },
+  "174": {
+   "name": "可使用点数",
+   "parent": 157,
+   "position": [
+    0.0,
+    444.765625,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可用点数：50"
+   ]
+  },
+  "175": {
+   "name": "数值",
+   "parent": 178,
+   "position": [
+    0.0,
+    -5.3300018310546875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "176": {
+   "name": "调整初始属性",
+   "parent": 157,
+   "position": [
+    0.0,
+    516.9921875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "调整初始属性"
+   ]
+  },
+  "177": {
+   "name": "名称",
+   "parent": 181,
+   "position": [
+    -132.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "体质"
+   ]
+  },
+  "178": {
+   "name": "P",
+   "parent": 181,
+   "position": [
+    98.50001525878906,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "179": {
+   "name": "Sprite",
+   "parent": 175,
+   "position": [
+    2.430000066757202,
+    4.480000019073486,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "180": {
+   "name": "调整加点",
+   "parent": 41,
+   "position": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "181": {
+   "name": "加减One",
+   "parent": 157,
+   "position": [
+    0.0,
+    271.1000061035156,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "182": {
+   "name": "bg",
+   "parent": 180,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "183": {
+   "name": "减",
+   "parent": 178,
+   "position": [
+    -92.0,
+    22.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "减"
+   ]
+  },
+  "184": {
+   "name": "上半P",
+   "parent": 3,
+   "position": [
+    19.0,
+    21.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "185": {
+   "name": "l",
+   "parent": 186,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下页"
+   ]
+  },
+  "186": {
+   "name": "下页",
+   "parent": 184,
+   "position": [
+    82.99999237060547,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "187": {
+   "name": "l",
+   "parent": 110,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "删除"
+   ]
+  },
+  "188": {
+   "name": "l",
+   "parent": 144,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者登录"
+   ]
+  },
+  "189": {
+   "name": "上页",
+   "parent": 184,
+   "position": [
+    -177.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "190": {
+   "name": "l",
+   "parent": 145,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "191": {
+   "name": "数值输入",
+   "parent": 169,
+   "position": [
+    220.8800048828125,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "192": {
+   "name": "l",
+   "parent": 165,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "查看密码"
+   ]
+  },
+  "193": {
+   "name": "bg",
+   "parent": 129,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "194": {
+   "name": "下半部",
+   "parent": 180,
+   "position": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "195": {
+   "name": "关闭",
+   "parent": 129,
+   "position": [
+    305.0155029296875,
+    551.9871826171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "196": {
+   "name": "SV",
+   "parent": 197,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "197": {
+   "name": "第二层SV",
+   "parent": 129,
+   "position": [
+    0.0,
+    -55.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "198": {
+   "name": "中间文字点击",
+   "parent": 197,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "199": {
+   "name": "判断",
+   "parent": 169,
+   "position": [
+    487.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "按钮框",
+    "按钮框"
+   ]
+  },
+  "200": {
+   "name": "跳转",
+   "parent": 169,
+   "position": [
+    487.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "201": {
+   "name": "Label",
+   "parent": 199,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "202": {
+   "name": "Input",
+   "parent": 169,
+   "position": [
+    30.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "按钮框",
+    "按钮框",
+    "人阶",
+    "地阶",
+    "天阶",
+    "所有等阶"
+   ]
+  },
+  "203": {
+   "name": "Label",
+   "parent": 200,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "跳转"
+   ]
+  },
+  "204": {
+   "name": "l",
+   "parent": 189,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上页"
+   ]
+  },
+  "205": {
+   "name": "p",
+   "parent": 21,
+   "position": [
+    0.0,
+    -579.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  }
+ },
+ "sharedassets1.assets": {
+  "35": {
+   "name": "Table",
+   "parent": 55,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "36": {
+   "name": "页数",
+   "parent": 192,
+   "position": [
+    171.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "共10页"
+   ]
+  },
+  "37": {
+   "name": "l",
+   "parent": 67,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "38": {
+   "name": "事件3个选项",
+   "parent": 77,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "39": {
+   "name": "总榜",
+   "parent": 192,
+   "position": [
+    62.00000762939453,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "40": {
+   "name": "你的初始天赋",
+   "parent": 387,
+   "position": [
+    0.0,
+    -93.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "你的初始天赋"
+   ]
+  },
+  "41": {
+   "name": "天赋1",
+   "parent": 266,
+   "position": [
+    0.0,
+    388.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "42": {
+   "name": "-",
+   "parent": 63,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "43": {
+   "name": "返回",
+   "parent": 329,
+   "position": [
+    0.0,
+    -589.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "44": {
+   "name": "免广告",
+   "parent": 181,
+   "position": [
+    0.0,
+    -335.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "免广告:5"
+   ]
+  },
+  "45": {
+   "name": "关闭",
+   "parent": 281,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "46": {
+   "name": "l",
+   "parent": 73,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "设置存档"
+   ]
+  },
+  "47": {
+   "name": "l",
+   "parent": 97,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "48": {
+   "name": "运行",
+   "parent": 168,
+   "position": [
+    0.0,
+    -546.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "49": {
+   "name": "l",
+   "parent": 94,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "日榜"
+   ]
+  },
+  "50": {
+   "name": "等级",
+   "parent": 41,
+   "position": [
+    175.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "51": {
+   "name": "Label",
+   "parent": 64,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "52": {
+   "name": "名称",
+   "parent": 63,
+   "position": [
+    -180.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "年"
+   ]
+  },
+  "53": {
+   "name": "暂无游戏",
+   "parent": 209,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "暂无游戏"
+   ]
+  },
+  "54": {
+   "name": "新建",
+   "parent": 358,
+   "position": [
+    247.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "55": {
+   "name": "事件SV",
+   "parent": 360,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "56": {
+   "name": "可触发",
+   "parent": 38,
+   "position": [
+    -230.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "57": {
+   "name": "Label",
+   "parent": 48,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "运行事件"
+   ]
+  },
+  "58": {
+   "name": "l",
+   "parent": 54,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "新建事件"
+   ]
+  },
+  "59": {
+   "name": "跳转",
+   "parent": 207,
+   "position": [
+    487.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "60": {
+   "name": "开始",
+   "parent": 352,
+   "position": [
+    0.0,
+    -485.6199951171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "61": {
+   "name": "choose_p",
+   "parent": 168,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "62": {
+   "name": "关闭",
+   "parent": 168,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "63": {
+   "name": "年",
+   "parent": 193,
+   "position": [
+    -98.0078125,
+    425.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "64": {
+   "name": "判断",
+   "parent": 207,
+   "position": [
+    487.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "按钮框",
+    "按钮框"
+   ]
+  },
+  "65": {
+   "name": "Sprite",
+   "parent": 105,
+   "position": [
+    -85.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "播放"
+   ]
+  },
+  "66": {
+   "name": "l",
+   "parent": 99,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "不触发:100"
+   ]
+  },
+  "67": {
+   "name": "最小值",
+   "parent": 63,
+   "position": [
+    -75.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "68": {
+   "name": "关于我们",
+   "parent": 147,
+   "position": [
+    0.0,
+    -342.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "69": {
+   "name": "最大值",
+   "parent": 63,
+   "position": [
+    75.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "70": {
+   "name": "筛选",
+   "parent": 193,
+   "position": [
+    177.0,
+    426.015625,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "71": {
+   "name": "SV",
+   "parent": 387,
+   "position": [
+    0.0,
+    -262.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "72": {
+   "name": "l",
+   "parent": 43,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "返回"
+   ]
+  },
+  "73": {
+   "name": "设置",
+   "parent": 193,
+   "position": [
+    177.0,
+    511.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "74": {
+   "name": "Sprite",
+   "parent": 68,
+   "position": [
+    -104.0,
+    18.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "联系"
+   ]
+  },
+  "75": {
+   "name": "Label",
+   "parent": 105,
+   "position": [
+    28.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "获取10次刷新天赋\r"
+   ]
+  },
+  "76": {
+   "name": "关闭",
+   "parent": 301,
+   "position": [
+    305.0155029296875,
+    551.9871826171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "77": {
+   "name": "第二层SV",
+   "parent": 301,
+   "position": [
+    0.0,
+    -103.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "78": {
+   "name": "l",
+   "parent": 70,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "筛选"
+   ]
+  },
+  "79": {
+   "name": "SV",
+   "parent": 77,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "80": {
+   "name": "Input",
+   "parent": 207,
+   "position": [
+    30.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "按钮框",
+    "按钮框",
+    "人阶",
+    "地阶",
+    "天阶",
+    "所有等阶"
+   ]
+  },
+  "81": {
+   "name": "l",
+   "parent": 82,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "我创建的游戏"
+   ]
+  },
+  "82": {
+   "name": "我创建游戏",
+   "parent": 393,
+   "position": [
+    230.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "83": {
+   "name": "新游",
+   "parent": 192,
+   "position": [
+    -298.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "84": {
+   "name": "Label",
+   "parent": 60,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始转生"
+   ]
+  },
+  "85": {
+   "name": "l",
+   "parent": 104,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "周榜"
+   ]
+  },
+  "86": {
+   "name": "l",
+   "parent": 103,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "分支:1"
+   ]
+  },
+  "87": {
+   "name": "Sprite",
+   "parent": 174,
+   "position": [
+    -85.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "播放"
+   ]
+  },
+  "88": {
+   "name": "随机",
+   "parent": 352,
+   "position": [
+    0.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "89": {
+   "name": "l",
+   "parent": 69,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "90": {
+   "name": "评分",
+   "parent": 212,
+   "position": [
+    0.0,
+    -5.300000190734863,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "91": {
+   "name": "l",
+   "parent": 56,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可触发:1"
+   ]
+  },
+  "92": {
+   "name": "click",
+   "parent": 275,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "93": {
+   "name": "占位",
+   "parent": 71,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "94": {
+   "name": "日榜",
+   "parent": 192,
+   "position": [
+    -178.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "95": {
+   "name": "点击S",
+   "parent": 98,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "切换"
+   ]
+  },
+  "96": {
+   "name": "占位",
+   "parent": 387,
+   "position": [
+    0.0,
+    -262.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "97": {
+   "name": "输入",
+   "parent": 112,
+   "position": [
+    2.5999999046325684,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "98": {
+   "name": "查看天赋",
+   "parent": 41,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "99": {
+   "name": "不可触发",
+   "parent": 38,
+   "position": [
+    -50.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "100": {
+   "name": "中间文字点击",
+   "parent": 77,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "101": {
+   "name": "天赋1V",
+   "parent": 41,
+   "position": [
+    -267.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "眼疾手快 Lv.1"
+   ]
+  },
+  "102": {
+   "name": "Label",
+   "parent": 59,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "跳转"
+   ]
+  },
+  "103": {
+   "name": "分支",
+   "parent": 38,
+   "position": [
+    130.0,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "104": {
+   "name": "周榜",
+   "parent": 192,
+   "position": [
+    -57.70000076293945,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "105": {
+   "name": "刷新天赋",
+   "parent": 181,
+   "position": [
+    160.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "106": {
+   "name": "Label",
+   "parent": 88,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "随机属性"
+   ]
+  },
+  "107": {
+   "name": "l",
+   "parent": 83,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "新游"
+   ]
+  },
+  "108": {
+   "name": "l",
+   "parent": 90,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "评分"
+   ]
+  },
+  "109": {
+   "name": "Label",
+   "parent": 68,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关于我们"
+   ]
+  },
+  "110": {
+   "name": "l",
+   "parent": 39,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "总榜"
+   ]
+  },
+  "111": {
+   "name": "BGClick",
+   "parent": 112,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "112": {
+   "name": "CharacterWin",
+   "parent": 0,
+   "position": [
+    21.0,
+    2594.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "113": {
+   "name": "NameLabel",
+   "parent": 115,
+   "position": [
+    -161.0,
+    219.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "这里有:"
+   ]
+  },
+  "114": {
+   "name": "Explain",
+   "parent": 115,
+   "position": [
+    -161.0,
+    170.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可爱的妹妹。"
+   ]
+  },
+  "115": {
+   "name": "GameObject",
+   "parent": 127,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "116": {
+   "name": "套装",
+   "parent": 115,
+   "position": [
+    0.0,
+    -502.8999938964844,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "117": {
+   "name": "Add_XinJing",
+   "parent": 137,
+   "position": [
+    314.3999938964844,
+    -0.800000011920929,
+    0.0
+   ],
+   "scale": [
+    1.0000001192092896,
+    1.0000001192092896,
+    1.0000001192092896
+   ],
+   "active": true,
+   "localizedStrings": [
+    "心境:杀戮"
+   ]
+  },
+  "118": {
+   "name": "Add_V",
+   "parent": 137,
+   "position": [
+    0.0,
+    -32.79998779296875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "物伤+5"
+   ]
+  },
+  "119": {
+   "name": "BG",
+   "parent": 115,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "120": {
+   "name": "MoneyL",
+   "parent": 112,
+   "position": [
+    -330.0,
+    -445.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": [
+    "铜钱：50000"
+   ]
+  },
+  "121": {
+   "name": "Add_Size",
+   "parent": 137,
+   "position": [
+    -1.0,
+    -94.0,
+    0.0
+   ],
+   "scale": [
+    1.0000001192092896,
+    1.0000001192092896,
+    1.0000001192092896
+   ],
+   "active": true,
+   "localizedStrings": [
+    "物伤+5"
+   ]
+  },
+  "122": {
+   "name": "立场L",
+   "parent": 112,
+   "position": [
+    327.0,
+    -445.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": [
+    "立场：邪恶"
+   ]
+  },
+  "123": {
+   "name": "RoleNum",
+   "parent": 112,
+   "position": [
+    -330.0,
+    430.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": [
+    "人数：50"
+   ]
+  },
+  "124": {
+   "name": "类型",
+   "parent": 119,
+   "position": [
+    159.0,
+    221.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "这里有:"
+   ]
+  },
+  "125": {
+   "name": "FriendL",
+   "parent": 112,
+   "position": [
+    327.0,
+    430.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": [
+    "好友度：50"
+   ]
+  },
+  "126": {
+   "name": "NameLabel",
+   "parent": 112,
+   "position": [
+    0.0,
+    273.79998779296875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "这里有"
+   ]
+  },
+  "127": {
+   "name": "弹窗",
+   "parent": 138,
+   "position": [
+    -3212.0,
+    -238.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "128": {
+   "name": "套装Name",
+   "parent": 116,
+   "position": [
+    -161.0,
+    219.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "青龙套装:"
+   ]
+  },
+  "129": {
+   "name": "CenterL",
+   "parent": 0,
+   "position": [
+    -2.0,
+    2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "130": {
+   "name": "套装Explain",
+   "parent": 116,
+   "position": [
+    -161.0,
+    170.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上古青龙之力，魔防整体效果提升。"
+   ]
+  },
+  "131": {
+   "name": "ActionBtn4C_Win",
+   "parent": 0,
+   "position": [
+    -714.0,
+    -53.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "132": {
+   "name": "Label",
+   "parent": 129,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "妹妹拦住了你"
+   ]
+  },
+  "133": {
+   "name": "套装Add_V",
+   "parent": 208,
+   "position": [
+    0.0,
+    -32.79998779296875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "物伤+5"
+   ]
+  },
+  "134": {
+   "name": "套装个数",
+   "parent": 116,
+   "position": [
+    167.10000610351562,
+    219.0,
+    0.0
+   ],
+   "scale": [
+    1.0000001192092896,
+    1.0000001192092896,
+    1.0000001192092896
+   ],
+   "active": true,
+   "localizedStrings": [
+    "个数:3"
+   ]
+  },
+  "135": {
+   "name": "Name",
+   "parent": 131,
+   "position": [
+    21.0,
+    -3.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "136": {
+   "name": "套装BG",
+   "parent": 116,
+   "position": [
+    0.0,
+    250.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "137": {
+   "name": "Add_S",
+   "parent": 115,
+   "position": [
+    -161.0,
+    5.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "效果:\n"
+   ]
+  },
+  "138": {
+   "name": "基础弹窗",
+   "parent": 0,
+   "position": [
+    3170.0,
+    2022.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "139": {
+   "name": "编辑游戏数据",
+   "parent": 278,
+   "position": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "140": {
+   "name": "标题",
+   "parent": 382,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑天赋"
+   ]
+  },
+  "141": {
+   "name": "下页",
+   "parent": 156,
+   "position": [
+    82.99999237060547,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "142": {
+   "name": "左上角",
+   "parent": 269,
+   "position": [
+    -348.20001220703125,
+    628.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "今日次数1次"
+   ]
+  },
+  "143": {
+   "name": "背景",
+   "parent": 220,
+   "position": [
+    0.0,
+    -15.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "次标题背景"
+   ]
+  },
+  "144": {
+   "name": "l",
+   "parent": 139,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑游戏数据"
+   ]
+  },
+  "145": {
+   "name": "Sprite",
+   "parent": 146,
+   "position": [
+    -104.0,
+    18.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "地球"
+   ]
+  },
+  "146": {
+   "name": "论坛",
+   "parent": 147,
+   "position": [
+    0.0,
+    -242.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "147": {
+   "name": "开始界面",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "148": {
+   "name": "Start",
+   "parent": 147,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "149": {
+   "name": "bg",
+   "parent": 147,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景图"
+   ]
+  },
+  "150": {
+   "name": "Label",
+   "parent": 146,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "创造世界"
+   ]
+  },
+  "151": {
+   "name": "重开",
+   "parent": 147,
+   "position": [
+    0.0,
+    -142.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "152": {
+   "name": "Label",
+   "parent": 151,
+   "position": [
+    22.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始剧情"
+   ]
+  },
+  "153": {
+   "name": "Sprite",
+   "parent": 151,
+   "position": [
+    -84.94000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "循环图标"
+   ]
+  },
+  "154": {
+   "name": "忠告",
+   "parent": 202,
+   "position": [
+    0.0,
+    -538.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\r\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。\n\n著作权人：桂林异幻网络科技有限公司"
+   ]
+  },
+  "155": {
+   "name": "bg",
+   "parent": 301,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "156": {
+   "name": "上半P",
+   "parent": 365,
+   "position": [
+    19.0,
+    -2.0999999046325684,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "157": {
+   "name": "l",
+   "parent": 263,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "158": {
+   "name": "l",
+   "parent": 141,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下页"
+   ]
+  },
+  "159": {
+   "name": "编辑标题",
+   "parent": 372,
+   "position": [
+    0.0,
+    567.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "160": {
+   "name": "Auto",
+   "parent": 112,
+   "position": [
+    276.0,
+    -418.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "161": {
+   "name": "数值输入",
+   "parent": 207,
+   "position": [
+    220.8800048828125,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "162": {
+   "name": "l",
+   "parent": 194,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上页"
+   ]
+  },
+  "163": {
+   "name": "l",
+   "parent": 239,
+   "position": [
+    -124.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "164": {
+   "name": "删除事件",
+   "parent": 168,
+   "position": [
+    230.0,
+    -546.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "165": {
+   "name": "上页",
+   "parent": 156,
+   "position": [
+    -177.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "166": {
+   "name": "名称",
+   "parent": 193,
+   "position": [
+    -76.796875,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框",
+    "不限定名称"
+   ]
+  },
+  "167": {
+   "name": "times",
+   "parent": 131,
+   "position": [
+    99.0,
+    -3.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "168": {
+   "name": "编辑事件",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "169": {
+   "name": "作者上半P",
+   "parent": 393,
+   "position": [
+    -6.0,
+    -69.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "170": {
+   "name": "简介",
+   "parent": 212,
+   "position": [
+    -314.0,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑器选项"
+   ]
+  },
+  "171": {
+   "name": "关闭",
+   "parent": 257,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "172": {
+   "name": "开始",
+   "parent": 181,
+   "position": [
+    0.0,
+    -505.1953125,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "173": {
+   "name": "Label",
+   "parent": 174,
+   "position": [
+    28.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "获取所有天赋"
+   ]
+  },
+  "174": {
+   "name": "获取所有天赋",
+   "parent": 181,
+   "position": [
+    -160.0,
+    -400.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "175": {
+   "name": "Label",
+   "parent": 172,
+   "position": [
+    0.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "分配属性"
+   ]
+  },
+  "176": {
+   "name": "标题",
+   "parent": 212,
+   "position": [
+    0.0,
+    578.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑器选项"
+   ]
+  },
+  "177": {
+   "name": "Sprite",
+   "parent": 179,
+   "position": [
+    -259.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "天赋颜色"
+   ]
+  },
+  "178": {
+   "name": "Label",
+   "parent": 179,
+   "position": [
+    35.0,
+    -1.7999999523162842,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "杀戮之神(眼里只有黑与白的人)"
+   ]
+  },
+  "179": {
+   "name": "天赋显示",
+   "parent": 0,
+   "position": [
+    0.0,
+    -226.171875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "180": {
+   "name": "Label",
+   "parent": 164,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "删除事件"
+   ]
+  },
+  "181": {
+   "name": "下半部",
+   "parent": 288,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "182": {
+   "name": "排序按钮",
+   "parent": 186,
+   "position": [
+    -68.69999694824219,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.996834933757782,
+    0.996834933757782,
+    0.996834933757782
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "183": {
+   "name": "Label",
+   "parent": 185,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "菜單"
+   ]
+  },
+  "184": {
+   "name": "bg",
+   "parent": 329,
+   "position": [
+    0.0,
+    -557.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "185": {
+   "name": "菜单",
+   "parent": 222,
+   "position": [
+    525.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "186": {
+   "name": "排序",
+   "parent": 77,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "187": {
+   "name": "保存事件",
+   "parent": 168,
+   "position": [
+    -230.0,
+    -546.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "188": {
+   "name": "名称",
+   "parent": 186,
+   "position": [
+    -285.49981689453125,
+    610.0,
+    0.0
+   ],
+   "scale": [
+    0.996834933757782,
+    0.996834933757782,
+    0.996834933757782
+   ],
+   "active": true,
+   "localizedStrings": [
+    "排序"
+   ]
+  },
+  "189": {
+   "name": "下页",
+   "parent": 192,
+   "position": [
+    82.99999237060547,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "190": {
+   "name": "l",
+   "parent": 189,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下页"
+   ]
+  },
+  "191": {
+   "name": "效果",
+   "parent": 220,
+   "position": [
+    -175.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "名称"
+   ]
+  },
+  "192": {
+   "name": "列表上半P",
+   "parent": 393,
+   "position": [
+    19.0,
+    -13.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "193": {
+   "name": "上半P",
+   "parent": 247,
+   "position": [
+    0.0,
+    91.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "194": {
+   "name": "上页",
+   "parent": 192,
+   "position": [
+    -177.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "195": {
+   "name": "bg",
+   "parent": 275,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "196": {
+   "name": "bg",
+   "parent": 168,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "197": {
+   "name": "l",
+   "parent": 165,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上页"
+   ]
+  },
+  "198": {
+   "name": "type_p",
+   "parent": 382,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "199": {
+   "name": "作者登出",
+   "parent": 169,
+   "position": [
+    0.0,
+    569.0671997070312,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "200": {
+   "name": "Label",
+   "parent": 187,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "保存事件"
+   ]
+  },
+  "201": {
+   "name": "上传返回",
+   "parent": 372,
+   "position": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "202": {
+   "name": "备案信息",
+   "parent": 147,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "203": {
+   "name": "l",
+   "parent": 199,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者登出"
+   ]
+  },
+  "204": {
+   "name": "l",
+   "parent": 374,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "删除"
+   ]
+  },
+  "205": {
+   "name": "评星",
+   "parent": 355,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "206": {
+   "name": "Label",
+   "parent": 275,
+   "position": [
+    27.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "选项事件"
+   ]
+  },
+  "207": {
+   "name": "弹出选项",
+   "parent": 0,
+   "position": [
+    1852.0,
+    2508.999755859375,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "208": {
+   "name": "Add_S",
+   "parent": 116,
+   "position": [
+    -161.0,
+    97.9000015258789,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "效果:\n"
+   ]
+  },
+  "209": {
+   "name": "游戏列表",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "210": {
+   "name": "浏览记录",
+   "parent": 393,
+   "position": [
+    -230.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "211": {
+   "name": "bg",
+   "parent": 384,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "212": {
+   "name": "编辑-原始",
+   "parent": 242,
+   "position": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "213": {
+   "name": "名称",
+   "parent": 192,
+   "position": [
+    -305.00341796875,
+    511.0129699707031,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "翻页"
+   ]
+  },
+  "214": {
+   "name": "Label",
+   "parent": 112,
+   "position": [
+    -7.0,
+    197.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可爱的妹妹。"
+   ]
+  },
+  "215": {
+   "name": "分割线",
+   "parent": 220,
+   "position": [
+    0.0,
+    -17.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "次标题分割线"
+   ]
+  },
+  "216": {
+   "name": "作者注册",
+   "parent": 232,
+   "position": [
+    -234.0,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "217": {
+   "name": "Label",
+   "parent": 260,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "添加奖励"
+   ]
+  },
+  "218": {
+   "name": "事件名",
+   "parent": 209,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "219": {
+   "name": "关闭",
+   "parent": 242,
+   "position": [
+    305.01953125,
+    551.9921875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "220": {
+   "name": "次标题",
+   "parent": 269,
+   "position": [
+    0.0,
+    533.0001220703125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "221": {
+   "name": "参与测试",
+   "parent": 192,
+   "position": [
+    191.0,
+    583.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "222": {
+   "name": "p",
+   "parent": 329,
+   "position": [
+    0.0,
+    -579.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "223": {
+   "name": "标题",
+   "parent": 339,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "设置存档"
+   ]
+  },
+  "224": {
+   "name": "备案号",
+   "parent": 202,
+   "position": [
+    0.0,
+    -597.2999877929688,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "[u]桂ICP备2023007719号-3A[-]"
+   ]
+  },
+  "225": {
+   "name": "上传简介",
+   "parent": 372,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "226": {
+   "name": "标题",
+   "parent": 301,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "事件筛选"
+   ]
+  },
+  "227": {
+   "name": "l",
+   "parent": 161,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "228": {
+   "name": "当前页",
+   "parent": 156,
+   "position": [
+    -47.00000762939453,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "229": {
+   "name": "声音",
+   "parent": 147,
+   "position": [
+    284.0,
+    -435.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "声音开"
+   ]
+  },
+  "230": {
+   "name": "标题",
+   "parent": 147,
+   "position": [
+    0.0,
+    423.1000061035156,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始标题"
+   ]
+  },
+  "231": {
+   "name": "天赋-属性-境界",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "232": {
+   "name": "loginP",
+   "parent": 169,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "233": {
+   "name": "下载",
+   "parent": 278,
+   "position": [
+    0.0,
+    -360.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "234": {
+   "name": "l",
+   "parent": 233,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下载"
+   ]
+  },
+  "235": {
+   "name": "上传",
+   "parent": 278,
+   "position": [
+    0.0,
+    -270.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "236": {
+   "name": "l",
+   "parent": 235,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上传"
+   ]
+  },
+  "237": {
+   "name": "事件名",
+   "parent": 231,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "238": {
+   "name": "中间文字点击",
+   "parent": 360,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "239": {
+   "name": "title_p",
+   "parent": 269,
+   "position": [
+    0.0,
+    593.0001220703125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "240": {
+   "name": "type_p",
+   "parent": 339,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "241": {
+   "name": "蒙版",
+   "parent": 112,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "蒙版"
+   ]
+  },
+  "242": {
+   "name": "初始按钮",
+   "parent": 384,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "243": {
+   "name": "l",
+   "parent": 216,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者注册"
+   ]
+  },
+  "244": {
+   "name": "名称",
+   "parent": 156,
+   "position": [
+    -305.00341796875,
+    511.0129699707031,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "翻页"
+   ]
+  },
+  "245": {
+   "name": "r",
+   "parent": 239,
+   "position": [
+    124.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "246": {
+   "name": "SV",
+   "parent": 247,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "247": {
+   "name": "第一层SV",
+   "parent": 301,
+   "position": [
+    0.0,
+    -103.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "248": {
+   "name": "l",
+   "parent": 249,
+   "position": [
+    0.0,
+    -36.56999969482422,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "第1年 可触发事件100个 | 分支事件100个"
+   ]
+  },
+  "249": {
+   "name": "事件筛选One",
+   "parent": 0,
+   "position": [
+    1026.0,
+    411.0000305175781,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "250": {
+   "name": "作者登录",
+   "parent": 232,
+   "position": [
+    -59.99609375,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "251": {
+   "name": "当前页",
+   "parent": 192,
+   "position": [
+    -47.00000762939453,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "252": {
+   "name": "l",
+   "parent": 254,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "添加天赋"
+   ]
+  },
+  "253": {
+   "name": "Name",
+   "parent": 395,
+   "position": [
+    0.0,
+    -3.200000047683716,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "返回"
+   ]
+  },
+  "254": {
+   "name": "添加",
+   "parent": 365,
+   "position": [
+    0.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "255": {
+   "name": "Label",
+   "parent": 160,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "自动选择"
+   ]
+  },
+  "256": {
+   "name": "l",
+   "parent": 201,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "返回"
+   ]
+  },
+  "257": {
+   "name": "上半部",
+   "parent": 288,
+   "position": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "258": {
+   "name": "l",
+   "parent": 210,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "浏览记录"
+   ]
+  },
+  "259": {
+   "name": "进入游戏",
+   "parent": 278,
+   "position": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "260": {
+   "name": "添加",
+   "parent": 290,
+   "position": [
+    222.0,
+    3.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "261": {
+   "name": "版本",
+   "parent": 384,
+   "position": [
+    -354.8999938964844,
+    630.7999877929688,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "版本:0"
+   ]
+  },
+  "262": {
+   "name": "勾选",
+   "parent": 275,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "选中"
+   ]
+  },
+  "263": {
+   "name": "当前页",
+   "parent": 358,
+   "position": [
+    -47.00000762939453,
+    515.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "264": {
+   "name": "BG",
+   "parent": 269,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "弹窗背景"
+   ]
+  },
+  "265": {
+   "name": "GameObject",
+   "parent": 266,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "266": {
+   "name": "SV",
+   "parent": 379,
+   "position": [
+    0.0,
+    24.000072479248047,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "267": {
+   "name": "Line",
+   "parent": 269,
+   "position": [
+    0.0,
+    -464.99993896484375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "黑线"
+   ]
+  },
+  "268": {
+   "name": "TopLine",
+   "parent": 269,
+   "position": [
+    0.00024453189689666033,
+    491.0,
+    0.0
+   ],
+   "scale": [
+    1.0000001192092896,
+    1.0000001192092896,
+    1.0000001192092896
+   ],
+   "active": true,
+   "localizedStrings": [
+    "黑线"
+   ]
+  },
+  "269": {
+   "name": "选择全屏窗口",
+   "parent": 0,
+   "position": [
+    -63.0,
+    2105.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "270": {
+   "name": "Title",
+   "parent": 239,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "更新日志"
+   ]
+  },
+  "271": {
+   "name": "中间文字点击",
+   "parent": 247,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "272": {
+   "name": "套装Center",
+   "parent": 136,
+   "position": [
+    0.0,
+    -75.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "青龙套装:"
+   ]
+  },
+  "273": {
+   "name": "l",
+   "parent": 221,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "参与测试"
+   ]
+  },
+  "274": {
+   "name": "中间文字点击",
+   "parent": 198,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "275": {
+   "name": "是否选择",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "276": {
+   "name": "Label",
+   "parent": 80,
+   "position": [
+    0.00938391126692295,
+    0.01409115083515644,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "第一类别",
+    "按钮框",
+    "按钮框",
+    "人阶",
+    "地阶",
+    "天阶",
+    "所有等阶"
+   ]
+  },
+  "277": {
+   "name": "l",
+   "parent": 259,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "开始游戏"
+   ]
+  },
+  "278": {
+   "name": "grid",
+   "parent": 242,
+   "position": [
+    0.0,
+    83.80999755859375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "279": {
+   "name": "bg",
+   "parent": 339,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "280": {
+   "name": "编辑简介",
+   "parent": 372,
+   "position": [
+    -328.0,
+    524.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "281": {
+   "name": "上半部",
+   "parent": 352,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "282": {
+   "name": "感叹号",
+   "parent": 131,
+   "position": [
+    -92.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "播放"
+   ]
+  },
+  "283": {
+   "name": "标题",
+   "parent": 231,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "天赋列表"
+   ]
+  },
+  "284": {
+   "name": "添加",
+   "parent": 393,
+   "position": [
+    0.0,
+    -515.5,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "285": {
+   "name": "出生天赋",
+   "parent": 257,
+   "position": [
+    0.0,
+    516.9921875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "你的出生天赋"
+   ]
+  },
+  "286": {
+   "name": "可使用点数",
+   "parent": 257,
+   "position": [
+    0.0,
+    444.765625,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "(最多选择3个)"
+   ]
+  },
+  "287": {
+   "name": "bg",
+   "parent": 288,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "288": {
+   "name": "选择天赋",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "289": {
+   "name": "l",
+   "parent": 166,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "不限定名称"
+   ]
+  },
+  "290": {
+   "name": "分类",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "291": {
+   "name": "事件名",
+   "parent": 301,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "292": {
+   "name": "名称",
+   "parent": 358,
+   "position": [
+    -305.00341796875,
+    511.0129699707031,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "翻页"
+   ]
+  },
+  "293": {
+   "name": "l",
+   "parent": 284,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "添加天赋"
+   ]
+  },
+  "294": {
+   "name": "评星等级",
+   "parent": 0,
+   "position": [
+    6.0,
+    2232.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "295": {
+   "name": "EmptyBG",
+   "parent": 294,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "蒙版"
+   ]
+  },
+  "296": {
+   "name": "确定",
+   "parent": 355,
+   "position": [
+    0.0,
+    -190.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "297": {
+   "name": "Title",
+   "parent": 355,
+   "position": [
+    0.0,
+    198.1999969482422,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "请选择你要给与的评星等级，点击下方星型图标即可调整等级"
+   ]
+  },
+  "298": {
+   "name": "l",
+   "parent": 355,
+   "position": [
+    0.0,
+    -192.9951171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "确定"
+   ]
+  },
+  "299": {
+   "name": "BG",
+   "parent": 355,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "300": {
+   "name": "Label",
+   "parent": 397,
+   "position": [
+    15.0,
+    -25.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "填写选项名称"
+   ]
+  },
+  "301": {
+   "name": "事件筛选",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "302": {
+   "name": "查看密码",
+   "parent": 232,
+   "position": [
+    115.0,
+    569.078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "303": {
+   "name": "名称",
+   "parent": 166,
+   "position": [
+    -201.2078094482422,
+    -1.984375,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "名称"
+   ]
+  },
+  "304": {
+   "name": "Label",
+   "parent": 331,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "進行"
+   ]
+  },
+  "305": {
+   "name": "time",
+   "parent": 310,
+   "position": [
+    -303.0,
+    -15.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "100岁"
+   ]
+  },
+  "306": {
+   "name": "中间文字",
+   "parent": 330,
+   "position": [
+    0.0,
+    390.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "307": {
+   "name": "label",
+   "parent": 320,
+   "position": [
+    -347.70001220703125,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "308": {
+   "name": "Label",
+   "parent": 322,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "行動2"
+   ]
+  },
+  "309": {
+   "name": "中间背景",
+   "parent": 306,
+   "position": [
+    0.0,
+    -403.98760986328125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "310": {
+   "name": "中间文字One",
+   "parent": 306,
+   "position": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "311": {
+   "name": "按钮",
+   "parent": 310,
+   "position": [
+    -94.69999694824219,
+    -117.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "312": {
+   "name": "k",
+   "parent": 314,
+   "position": [
+    -6.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "修为"
+   ]
+  },
+  "313": {
+   "name": "TopUI",
+   "parent": 330,
+   "position": [
+    0.0,
+    595.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "314": {
+   "name": "TopUI_One",
+   "parent": 313,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "315": {
+   "name": "按钮",
+   "parent": 314,
+   "position": [
+    -65.5999984741211,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "框"
+   ]
+  },
+  "316": {
+   "name": "L",
+   "parent": 310,
+   "position": [
+    -215.0,
+    -15.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "修仙模拟器"
+   ]
+  },
+  "317": {
+   "name": "SV",
+   "parent": 306,
+   "position": [
+    0.0,
+    -395.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "318": {
+   "name": "背景",
+   "parent": 330,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景2"
+   ]
+  },
+  "319": {
+   "name": "L",
+   "parent": 311,
+   "position": [
+    0.0,
+    -3.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "我要修真"
+   ]
+  },
+  "320": {
+   "name": "TextList",
+   "parent": 306,
+   "position": [
+    0.0,
+    135.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "321": {
+   "name": "v",
+   "parent": 314,
+   "position": [
+    3.999998092651367,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "322": {
+   "name": "行动2",
+   "parent": 222,
+   "position": [
+    350.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "323": {
+   "name": "中间文字点击",
+   "parent": 306,
+   "position": [
+    0.0,
+    -395.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "324": {
+   "name": "占位",
+   "parent": 317,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "325": {
+   "name": "line",
+   "parent": 330,
+   "position": [
+    0.0,
+    517.5999755859375,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "326": {
+   "name": "行动1",
+   "parent": 222,
+   "position": [
+    175.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "327": {
+   "name": "sv_bar",
+   "parent": 306,
+   "position": [
+    354.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "328": {
+   "name": "Label",
+   "parent": 326,
+   "position": [
+    0.0,
+    -3.809999942779541,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "行動1"
+   ]
+  },
+  "329": {
+   "name": "bottomMenu",
+   "parent": 330,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "330": {
+   "name": "主界面",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "331": {
+   "name": "进行",
+   "parent": 222,
+   "position": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "332": {
+   "name": "Table",
+   "parent": 335,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "333": {
+   "name": "运行",
+   "parent": 339,
+   "position": [
+    0.0,
+    -546.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "334": {
+   "name": "Label",
+   "parent": 333,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "运行测试"
+   ]
+  },
+  "335": {
+   "name": "事件SV",
+   "parent": 240,
+   "position": [
+    0.0,
+    8.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "336": {
+   "name": "choose_p",
+   "parent": 339,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "337": {
+   "name": "关闭",
+   "parent": 339,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "338": {
+   "name": "l",
+   "parent": 182,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "以事件名称排序"
+   ]
+  },
+  "339": {
+   "name": "编辑存档",
+   "parent": 0,
+   "position": [
+    -2524.0,
+    -64.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "340": {
+   "name": "头像",
+   "parent": 112,
+   "position": [
+    -116.0999984741211,
+    404.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "341": {
+   "name": "l",
+   "parent": 363,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "发布"
+   ]
+  },
+  "342": {
+   "name": "标题",
+   "parent": 209,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "天赋列表"
+   ]
+  },
+  "343": {
+   "name": "P",
+   "parent": 351,
+   "position": [
+    98.50001525878906,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "344": {
+   "name": "名称",
+   "parent": 351,
+   "position": [
+    -132.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "体质"
+   ]
+  },
+  "345": {
+   "name": "调整初始属性",
+   "parent": 281,
+   "position": [
+    0.0,
+    516.9921875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "调整初始属性"
+   ]
+  },
+  "346": {
+   "name": "数值",
+   "parent": 343,
+   "position": [
+    0.0,
+    -5.3300018310546875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "347": {
+   "name": "可使用点数",
+   "parent": 281,
+   "position": [
+    0.0,
+    444.765625,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "可用点数：50"
+   ]
+  },
+  "348": {
+   "name": "加",
+   "parent": 343,
+   "position": [
+    47.0,
+    22.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "加"
+   ]
+  },
+  "349": {
+   "name": "减",
+   "parent": 343,
+   "position": [
+    -92.0,
+    22.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "减"
+   ]
+  },
+  "350": {
+   "name": "bg",
+   "parent": 352,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "351": {
+   "name": "加减One",
+   "parent": 281,
+   "position": [
+    0.0,
+    271.1000061035156,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "352": {
+   "name": "调整加点",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "353": {
+   "name": "Sprite",
+   "parent": 346,
+   "position": [
+    2.430000066757202,
+    4.480000019073486,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "354": {
+   "name": "选中",
+   "parent": 179,
+   "position": [
+    304.19000244140625,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "选中"
+   ]
+  },
+  "355": {
+   "name": "P",
+   "parent": 294,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "356": {
+   "name": "l",
+   "parent": 228,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "357": {
+   "name": "GoSV",
+   "parent": 379,
+   "position": [
+    0.0,
+    18.9998836517334,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "358": {
+   "name": "上半P",
+   "parent": 77,
+   "position": [
+    19.0,
+    21.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "359": {
+   "name": "编辑名称和简介",
+   "parent": 278,
+   "position": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "360": {
+   "name": "type_p",
+   "parent": 168,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "361": {
+   "name": "中间文字点击",
+   "parent": 240,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "362": {
+   "name": "l",
+   "parent": 368,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "下页"
+   ]
+  },
+  "363": {
+   "name": "发布",
+   "parent": 278,
+   "position": [
+    0.0,
+    -450.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "364": {
+   "name": "SV",
+   "parent": 365,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "365": {
+   "name": "第二层SV",
+   "parent": 231,
+   "position": [
+    0.0,
+    -55.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "366": {
+   "name": "关闭",
+   "parent": 231,
+   "position": [
+    305.0155029296875,
+    551.9871826171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "367": {
+   "name": "中间文字点击",
+   "parent": 365,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "368": {
+   "name": "下页",
+   "parent": 358,
+   "position": [
+    82.99999237060547,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "369": {
+   "name": "l",
+   "parent": 250,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "作者登录"
+   ]
+  },
+  "370": {
+   "name": "sp",
+   "parent": 41,
+   "position": [
+    -290.5,
+    4.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "371": {
+   "name": "bg",
+   "parent": 231,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "372": {
+   "name": "编辑",
+   "parent": 384,
+   "position": [
+    0.0,
+    -100.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "373": {
+   "name": "bg",
+   "parent": 382,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "374": {
+   "name": "删除",
+   "parent": 207,
+   "position": [
+    337.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "375": {
+   "name": "Label",
+   "parent": 280,
+   "position": [
+    15.0,
+    -11.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "376": {
+   "name": "提示文本",
+   "parent": 290,
+   "position": [
+    -339.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "选项1"
+   ]
+  },
+  "377": {
+   "name": "上页",
+   "parent": 358,
+   "position": [
+    -177.0,
+    513.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "378": {
+   "name": "Label",
+   "parent": 159,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "填写选项名称"
+   ]
+  },
+  "379": {
+   "name": "SV_P",
+   "parent": 269,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "380": {
+   "name": "点击效果",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "圈"
+   ]
+  },
+  "381": {
+   "name": "l",
+   "parent": 251,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "382": {
+   "name": "编辑天赋",
+   "parent": 0,
+   "position": [
+    -1932.0,
+    2063.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "383": {
+   "name": "l",
+   "parent": 225,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上传"
+   ]
+  },
+  "384": {
+   "name": "游戏编辑器入口",
+   "parent": 0,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "385": {
+   "name": "l",
+   "parent": 302,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "查看密码"
+   ]
+  },
+  "386": {
+   "name": "bg",
+   "parent": 209,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "背景色"
+   ]
+  },
+  "387": {
+   "name": "下半部",
+   "parent": 352,
+   "position": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "388": {
+   "name": "l",
+   "parent": 359,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑简介和名称"
+   ]
+  },
+  "389": {
+   "name": "类型Layout (1)",
+   "parent": 269,
+   "position": [
+    0.0,
+    288.4615478515625,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "390": {
+   "name": "事件名",
+   "parent": 384,
+   "position": [
+    -98.0,
+    513.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "391": {
+   "name": "中间文字点击",
+   "parent": 393,
+   "position": [
+    0.0,
+    43.0078125,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "392": {
+   "name": "关闭",
+   "parent": 209,
+   "position": [
+    305.0155029296875,
+    551.9871826171875,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "393": {
+   "name": "第二层SV",
+   "parent": 209,
+   "position": [
+    0.0,
+    -55.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "394": {
+   "name": "SV",
+   "parent": 393,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "395": {
+   "name": "返回",
+   "parent": 269,
+   "position": [
+    0.0,
+    -545.5384521484375,
+    0.0
+   ],
+   "scale": [
+    0.9984000325202942,
+    0.9984000325202942,
+    0.9984000325202942
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "396": {
+   "name": "GameObject",
+   "parent": 112,
+   "position": [
+    0.0,
+    140.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": false,
+   "localizedStrings": []
+  },
+  "397": {
+   "name": "Input",
+   "parent": 290,
+   "position": [
+    -183.0,
+    28.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "398": {
+   "name": "价格",
+   "parent": 220,
+   "position": [
+    175.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "等级"
+   ]
+  },
+  "399": {
+   "name": "天赋-属性-境界One",
+   "parent": 0,
+   "position": [
+    1026.0,
+    497.29998779296875,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "400": {
+   "name": "l",
+   "parent": 399,
+   "position": [
+    0.0,
+    -36.56999969482422,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "第1年 可触发事件100个 | 分支事件100个"
+   ]
+  },
+  "401": {
+   "name": "l",
+   "parent": 377,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "上页"
+   ]
+  },
+  "402": {
+   "name": "删除",
+   "parent": 382,
+   "position": [
+    0.0,
+    -546.0,
+    0.0
+   ],
+   "scale": [
+    0.9983999729156494,
+    0.9983999729156494,
+    0.9983999729156494
+   ],
+   "active": true,
+   "localizedStrings": [
+    "按钮框"
+   ]
+  },
+  "403": {
+   "name": "Table",
+   "parent": 407,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "404": {
+   "name": "choose_p",
+   "parent": 382,
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "405": {
+   "name": "关闭",
+   "parent": 382,
+   "position": [
+    305.0155334472656,
+    551.9872436523438,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "关闭"
+   ]
+  },
+  "406": {
+   "name": "Label",
+   "parent": 402,
+   "position": [
+    0.0,
+    -2.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "删除天赋"
+   ]
+  },
+  "407": {
+   "name": "事件SV",
+   "parent": 198,
+   "position": [
+    0.0,
+    8.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": []
+  },
+  "408": {
+   "name": "标题",
+   "parent": 168,
+   "position": [
+    0.0,
+    592.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "active": true,
+   "localizedStrings": [
+    "编辑事件"
+   ]
+  }
+ }
+}
